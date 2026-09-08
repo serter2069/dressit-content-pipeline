@@ -1,0 +1,79 @@
+{
+  "id": "20260905-fa8e",
+  "state": "voiced",
+  "created_at": "2026-09-05T02:46:16.991431+00:00",
+  "project": "demo-fashion",
+  "pipeline": "fshorts@1.0.0",
+  "topic": {
+    "title": "3 viral TikTok dresses under $30",
+    "source": "demo",
+    "items": [
+      {
+        "name": "Satin cowl-neck slip dress",
+        "price": "$24.99",
+        "store": "Amazon",
+        "image_url": "",
+        "trend": "8M views on #tiktokmademebuyit"
+      },
+      {
+        "name": "Ribbed bodycon midi dress",
+        "price": "$19.99",
+        "store": "Amazon",
+        "image_url": "",
+        "trend": "viral try-on hauls"
+      },
+      {
+        "name": "Floral ruffle mini dress",
+        "price": "$27.50",
+        "store": "Shein",
+        "image_url": "",
+        "trend": "trending in GRWM videos"
+      }
+    ]
+  },
+  "vars": {
+    "channel_niche": "fashion finds and viral dresses for US audience",
+    "sponsor_cta": "Want this dress free? Link in the pinned comment",
+    "sponsor_url": "https://dressit.app",
+    "voice_engine": "elevenlabs",
+    "voice_name": "sergei",
+    "music_mood_default": "upbeat",
+    "telegram_chat_id_ref": "env:TELEGRAM_CHAT_ID",
+    "youtube_token_ref": "env:YT_CLIENT_SECRETS"
+  },
+  "errors": [],
+  "judges": [
+    {
+      "stage": "script",
+      "model": "z-ai/glm-5.3",
+      "score": 10.0,
+      "pass": true,
+      "violations": []
+    }
+  ],
+  "script": {
+    "hook": "Three dresses under thirty dollars?",
+    "beats": [
+      {
+        "text": "This satin slip dress looks straight off a runway, and it's twenty-five bucks on Amazon.",
+        "visual": "Satin slip dress - $24.99",
+        "asset": "product",
+        "query": "Satin cowl-neck slip dress"
+      },
+      {
+        "text": "This ribbed midi hugs in all the right places for under twenty dollars.",
+        "visual": "Ribbed midi - $19.99",
+        "asset": "product",
+        "query": "Ribbed bodycon midi dress"
+      },
+      {
+        "text": "And this floral mini is all over GRWM videos right now.",
+        "visual": "Floral mini - $27.50",
+        "asset": "stock",
+        "query": "woman floral dress street"
+      }
+    ],
+    "cta": "Want this dress free? Link in the pinned comment",
+    "music_mood": "upbeat"
+  }
+}

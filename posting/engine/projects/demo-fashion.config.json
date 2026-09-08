@@ -1,0 +1,26 @@
+{
+  "name": "demo-fashion",
+  "description": "Demo channel config for the fshorts content type. Variables only — pipeline structure lives in specs/fshorts.pipeline.json.",
+  "pipeline": {"ref": "fshorts", "version": "1.0.0"},
+  "channel": "@demo-fashion",
+  "jobs_root": "jobs/demo-fashion",
+  "variables": {
+    "channel_niche": "fashion finds and viral dresses for US audience",
+    "sponsor_cta": "Want this dress free? Link in the pinned comment",
+    "sponsor_url": "https://dressit.app",
+    "voice_engine": "elevenlabs",
+    "voice_name": "sergei",
+    "music_mood_default": "upbeat",
+    "telegram_chat_id_ref": "env:TELEGRAM_CHAT_ID",
+    "youtube_token_ref": "env:YT_CLIENT_SECRETS"
+  },
+  "schedule_slots_utc": ["14:00", "18:00", "22:00"],
+  "schedule": {
+    "timezone": "America/Los_Angeles",
+    "slots": ["11:00", "19:00"],
+    "jitter_minutes": 45,
+    "days": [0, 1, 2, 3, 4, 5, 6],
+    "max_per_day": 2
+  },
+  "daily_limits": {"generate": 5, "publish": 2}
+}

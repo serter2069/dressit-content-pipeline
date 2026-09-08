@@ -1,0 +1,11 @@
+{
+  "at": "2026-09-05T02:47:19.707657+00:00",
+  "model": "z-ai/glm-5.3",
+  "artifact": "@script",
+  "threshold": 7.0,
+  "score": 10.0,
+  "violations": [],
+  "model_pass": true,
+  "pass": true,
+  "raw": "{\"score\": 10, \"violations\": [], \"pass\": true}"
+}

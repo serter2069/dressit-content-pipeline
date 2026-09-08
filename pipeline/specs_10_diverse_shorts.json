@@ -1,0 +1,807 @@
+[
+  {
+    "number": 1,
+    "id": "dglobal-batch10-div-01",
+    "slug": "div10_01_ianlara",
+    "comedian": "Ian Lara",
+    "title": "RELATIONSHIPS \u00b7 Bitcoin dating / stock going up \u00b7 Ian Lara \u00b7 DressIt",
+    "topic": "Bitcoin dating / stock going up",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/01_ianlara_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 4.25,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 4.25,
+      "cut2_dur": 4.25,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 8.5,
+      "setup_quote": "African-Latino, and if you've never heard of that, basically we're like the next big thing.",
+      "punchline_quote": "They compare us to Bitcoin in 2011, it's like, invest now because the stock is going up!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.48,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_01_ianlara.mp3",
+    "voiceover_script": "Invest in someone who invests in you. Post your style on DressIt and let quality guys fund your outfits for free.",
+    "audio_duration_sec": 8.28,
+    "caption": "African-Latino, and if you've never heard of that, basically we're like the next big thing. \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #ianlara #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:02.82",
+        "text": "AFRICAN LATINO. AND IF"
+      },
+      {
+        "start": "0:00:02.82",
+        "end": "0:00:03.50",
+        "text": "YOU'VE NEVER HEARD OF"
+      },
+      {
+        "start": "0:00:03.50",
+        "end": "0:00:06.46",
+        "text": "THAT, BASICALLY, WE'RE LIKE"
+      },
+      {
+        "start": "0:00:06.46",
+        "end": "0:00:07.42",
+        "text": "THE NEXT BIG THING."
+      },
+      {
+        "start": "0:00:08.70",
+        "end": "0:00:11.14",
+        "text": "INVEST IN SOMEONE\nWHO INVESTS IN YOU"
+      },
+      {
+        "start": "0:00:11.89",
+        "end": "0:00:13.64",
+        "text": "POST YOUR STYLE\nON DRESSIT"
+      },
+      {
+        "start": "0:00:14.14",
+        "end": "0:00:16.98",
+        "text": "AND LET QUALITY GUYS\nFUND YOUR OUTFITS FOR FREE!"
+      },
+      {
+        "start": "0:00:15.78",
+        "end": "0:00:17.58",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "id": "dglobal-batch10-div-02",
+    "slug": "div10_02_taylor",
+    "comedian": "Taylor Tomlinson",
+    "title": "RELATIONSHIPS \u00b7 Quitting dating losers \u00b7 Taylor Tomlinson \u00b7 DressIt",
+    "topic": "Quitting dating losers",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/02_taylor_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 4.25,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 4.25,
+      "cut2_dur": 4.25,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 8.5,
+      "setup_quote": "Losers are hard to quit. Losers are a lot like cigarettes.",
+      "punchline_quote": "You have one in your mouth, you feel pretty cool, but everyone around you is like, ew, we're sad for you."
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_02_angaevamariia_vid_790GN4oq.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_06_angaevamariia_vid_YhozXb0A.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.02,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_02_taylor.mp3",
+    "voiceover_script": "Stop settling for low-effort boys. Post your dream outfit on DressIt and let good guys fund it for free.",
+    "audio_duration_sec": 7.82,
+    "caption": "Losers are hard to quit. Losers are a lot like cigarettes. \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #taylor #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:01.12",
+        "text": "LOSES ARE HARD TO"
+      },
+      {
+        "start": "0:00:01.12",
+        "end": "0:00:01.92",
+        "text": "QUIT. LOSES ARE A"
+      },
+      {
+        "start": "0:00:01.92",
+        "end": "0:00:02.92",
+        "text": "LOT LIKE CIGARETTES. YOU"
+      },
+      {
+        "start": "0:00:02.92",
+        "end": "0:00:03.36",
+        "text": "HAVE ONE IN YOUR"
+      },
+      {
+        "start": "0:00:03.36",
+        "end": "0:00:04.10",
+        "text": "MOUTH. YOU FEEL PRETTY"
+      },
+      {
+        "start": "0:00:04.10",
+        "end": "0:00:05.06",
+        "text": "COOL BUT EVERYONE AROUND"
+      },
+      {
+        "start": "0:00:05.06",
+        "end": "0:00:06.12",
+        "text": "YOU'S LIKE, EW, WE'RE"
+      },
+      {
+        "start": "0:00:06.12",
+        "end": "0:00:06.90",
+        "text": "SAD FOR YOU"
+      },
+      {
+        "start": "0:00:08.70",
+        "end": "0:00:11.18",
+        "text": "STOP SETTLING FOR\nLOW-EFFORT BOYS"
+      },
+      {
+        "start": "0:00:11.96",
+        "end": "0:00:14.05",
+        "text": "POST YOUR DREAM OUTFIT\nON DRESSIT"
+      },
+      {
+        "start": "0:00:14.48",
+        "end": "0:00:16.52",
+        "text": "AND LET GOOD GUYS\nFUND IT FOR FREE!"
+      },
+      {
+        "start": "0:00:15.32",
+        "end": "0:00:17.12",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "id": "dglobal-batch10-div-03",
+    "slug": "div10_03_nikki",
+    "comedian": "Nikki Glaser",
+    "title": "RELATIONSHIPS \u00b7 Compatibility over chemistry \u00b7 Nikki Glaser \u00b7 DressIt",
+    "topic": "Compatibility over chemistry",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/03_nikki_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 4.0,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 4.0,
+      "cut2_dur": 4.0,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 8.0,
+      "setup_quote": "People love to ask me, like, chemistry or compatibility.",
+      "punchline_quote": "And I'm like, compatibility 100% of the time. Do you want to move through the world similarly?"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 6.22,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_03_nikki.mp3",
+    "voiceover_script": "Find guys who are actually on your wavelength. Post your dream dress on DressIt and let guys fund it for free.",
+    "audio_duration_sec": 9.02,
+    "caption": "People love to ask me, like, chemistry or compatibility. \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #nikki #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:00.58",
+        "text": "PEOPLE LOVE TO ASK"
+      },
+      {
+        "start": "0:00:00.58",
+        "end": "0:00:01.44",
+        "text": "ME, LIKE, CHEMISTRY OR"
+      },
+      {
+        "start": "0:00:01.44",
+        "end": "0:00:02.54",
+        "text": "COMPATIBILITY, AND I'M LIKE,"
+      },
+      {
+        "start": "0:00:02.72",
+        "end": "0:00:05.00",
+        "text": "COMPATIBILITY 100 % OF"
+      },
+      {
+        "start": "0:00:05.00",
+        "end": "0:00:06.10",
+        "text": "THE TIME. DO YOU"
+      },
+      {
+        "start": "0:00:06.10",
+        "end": "0:00:06.92",
+        "text": "WANT TO MOVE THROUGH"
+      },
+      {
+        "start": "0:00:06.92",
+        "end": "0:00:07.76",
+        "text": "THE WORLD SIMILARLY?"
+      },
+      {
+        "start": "0:00:08.20",
+        "end": "0:00:11.90",
+        "text": "FIND GUYS WHO ARE ACTUALLY\nON YOUR WAVELENGTH"
+      },
+      {
+        "start": "0:00:12.89",
+        "end": "0:00:14.79",
+        "text": "POST YOUR DREAM DRESS\nON DRESSIT"
+      },
+      {
+        "start": "0:00:15.43",
+        "end": "0:00:17.22",
+        "text": "AND LET GUYS\nFUND IT FOR FREE!"
+      },
+      {
+        "start": "0:00:16.02",
+        "end": "0:00:17.82",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "id": "dglobal-batch10-div-04",
+    "slug": "div10_04_fortune",
+    "comedian": "Fortune Feimster",
+    "title": "RELATIONSHIPS \u00b7 Mom's marriage pressure & minivans \u00b7 Fortune Feimster \u00b7 DressIt",
+    "topic": "Mom's marriage pressure & minivans",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/04_fortune_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 4.0,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 4.0,
+      "cut2_dur": 4.0,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 8.0,
+      "setup_quote": "My mom is like, you need to settle down and find someone.",
+      "punchline_quote": "Because every time I see my family, they treat being single like an emergency!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_02_angaevamariia_vid_790GN4oq.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.74,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_04_fortune.mp3",
+    "voiceover_script": "Skip the family pressure and upgrade your style. Post your favorite dress on DressIt and let sweet guys fund it for free.",
+    "audio_duration_sec": 8.54,
+    "caption": "My mom is like, you need to settle down and find someone. \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #fortune #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:00.94",
+        "text": "SHE DIDN'T TELL YOU"
+      },
+      {
+        "start": "0:00:00.94",
+        "end": "0:00:02.40",
+        "text": "THAT SHE HAD LONG"
+      },
+      {
+        "start": "0:00:02.40",
+        "end": "0:00:03.24",
+        "text": "DARK HAIR. SHE'S ON"
+      },
+      {
+        "start": "0:00:03.24",
+        "end": "0:00:04.72",
+        "text": "THE CHEERLEADING SQUAD. I'M"
+      },
+      {
+        "start": "0:00:04.72",
+        "end": "0:00:05.90",
+        "text": "LIKE, NO, MOM IS"
+      },
+      {
+        "start": "0:00:05.90",
+        "end": "0:00:06.68",
+        "text": "STILL DOES NOT RING"
+      },
+      {
+        "start": "0:00:06.68",
+        "end": "0:00:07.12",
+        "text": "A BELL."
+      },
+      {
+        "start": "0:00:08.20",
+        "end": "0:00:09.87",
+        "text": "SKIP THE FAMILY PRESSURE\nAND UPGRADE YOUR STYLE"
+      },
+      {
+        "start": "0:00:10.16",
+        "end": "0:00:11.36",
+        "text": "POST YOUR FAVORITE DRESS\nON DRESSIT"
+      },
+      {
+        "start": "0:00:12.04",
+        "end": "0:00:16.74",
+        "text": "AND LET SWEET GUYS\nFUND IT FOR FREE!"
+      },
+      {
+        "start": "0:00:15.54",
+        "end": "0:00:17.34",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "id": "dglobal-batch10-div-05",
+    "slug": "div10_05_nate",
+    "comedian": "Nate Bargatze",
+    "title": "RELATIONSHIPS \u00b7 Marriage trapped in a good way \u00b7 Nate Bargatze \u00b7 DressIt",
+    "topic": "Marriage trapped in a good way",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/05_nate_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 3.9,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 3.9,
+      "cut2_dur": 3.9,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 7.8,
+      "setup_quote": "This is what marriage feels like, by the way, what it feels like in here.",
+      "punchline_quote": "Right now, it's just one person talking to me and it's like, I'm gonna get out of here!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_05_angaevamariia_vid_KymX8LAP.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_07_angaevamariia_vid_k0QcluXY.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 6.82,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_05_nate.mp3",
+    "voiceover_script": "Leave all the dating stress behind. Post your favorite outfit on DressIt and connect with good guys who fund your style for free.",
+    "audio_duration_sec": 9.62,
+    "caption": "This is what marriage feels like, by the way, what it feels like in here. \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #nate #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:01.34",
+        "text": "MY EX -BOYFRIEND IN"
+      },
+      {
+        "start": "0:00:01.34",
+        "end": "0:00:03.40",
+        "text": "THAT BOAT. NOW, I"
+      },
+      {
+        "start": "0:00:03.40",
+        "end": "0:00:03.88",
+        "text": "DIDN'T KNOW WHO HE"
+      },
+      {
+        "start": "0:00:03.88",
+        "end": "0:00:04.66",
+        "text": "WAS, SO SHE DIDN'T"
+      },
+      {
+        "start": "0:00:04.66",
+        "end": "0:00:05.08",
+        "text": "HAVE TO SAY THAT"
+      },
+      {
+        "start": "0:00:05.08",
+        "end": "0:00:06.04",
+        "text": "AT ALL, YOU KNOW?"
+      },
+      {
+        "start": "0:00:08.00",
+        "end": "0:00:10.20",
+        "text": "LEAVE ALL THE DATING\nSTRESS BEHIND"
+      },
+      {
+        "start": "0:00:11.25",
+        "end": "0:00:13.24",
+        "text": "POST YOUR FAVORITE OUTFIT\nON DRESSIT"
+      },
+      {
+        "start": "0:00:13.88",
+        "end": "0:00:17.62",
+        "text": "AND CONNECT WITH GOOD GUYS\nWHO FUND YOUR STYLE FOR FREE!"
+      },
+      {
+        "start": "0:00:16.42",
+        "end": "0:00:18.22",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "id": "dglobal-batch10-div-06",
+    "slug": "div10_06_matteo",
+    "comedian": "Matteo Lane",
+    "title": "RELATIONSHIPS \u00b7 Guys & dating habits \u00b7 Matteo Lane \u00b7 DressIt",
+    "topic": "Guys & dating habits",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/06_matteo_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 4.0,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 4.0,
+      "cut2_dur": 4.0,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 8.0,
+      "setup_quote": "It is wild, the kind of screening process women have to get through.",
+      "punchline_quote": "My friend asked the guy: do you have friends? Like actual human friends?"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_06_angaevamariia_vid_YhozXb0A.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 6.13,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_06_matteo.mp3",
+    "voiceover_script": "Tired of guys and their childish dating habits? Post your dream outfit on DressIt and meet guys who actually treat you right.",
+    "audio_duration_sec": 8.93,
+    "caption": "It is wild, the kind of screening process women have to get through. \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #matteo #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:00.68",
+        "text": "I WATCH THIS ONE"
+      },
+      {
+        "start": "0:00:00.68",
+        "end": "0:00:02.30",
+        "text": "DOCUMENTARY, AND DOCUMENTARIES, LET"
+      },
+      {
+        "start": "0:00:02.30",
+        "end": "0:00:02.80",
+        "text": "ME JUST SAY THIS."
+      },
+      {
+        "start": "0:00:02.94",
+        "end": "0:00:04.82",
+        "text": "YOU LEARN ABSOLUTELY NOTHING,"
+      },
+      {
+        "start": "0:00:04.94",
+        "end": "0:00:05.84",
+        "text": "RIGHT? IT'S LIKE TWO"
+      },
+      {
+        "start": "0:00:05.84",
+        "end": "0:00:07.04",
+        "text": "MINUTES OF INFORMATION THAT"
+      },
+      {
+        "start": "0:00:07.04",
+        "end": "0:00:07.90",
+        "text": "THEY JUST STRETCH."
+      },
+      {
+        "start": "0:00:08.20",
+        "end": "0:00:11.14",
+        "text": "TIRED OF GUYS AND THEIR\nCHILDISH DATING HABITS?"
+      },
+      {
+        "start": "0:00:11.96",
+        "end": "0:00:13.98",
+        "text": "POST YOUR DREAM OUTFIT\nON DRESSIT"
+      },
+      {
+        "start": "0:00:14.49",
+        "end": "0:00:16.77",
+        "text": "AND MEET GUYS WHO\nACTUALLY TREAT YOU RIGHT!"
+      },
+      {
+        "start": "0:00:15.93",
+        "end": "0:00:17.73",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "id": "dglobal-batch10-div-07",
+    "slug": "div10_07_jimmyoyang",
+    "comedian": "Jimmy O. Yang",
+    "title": "RELATIONSHIPS \u00b7 Dating tall girls & heels \u00b7 Jimmy O. Yang \u00b7 DressIt",
+    "topic": "Dating tall girls & heels",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/07_jimmyoyang_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 3.8,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 3.8,
+      "cut2_dur": 3.8,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 7.6,
+      "setup_quote": "I've been dating a lot of tall girls lately because it makes me look successful.",
+      "punchline_quote": "Tall women are beautiful, but some of them like to wear heels. That's just disrespect!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_07_angaevamariia_vid_k0QcluXY.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_05_angaevamariia_vid_KymX8LAP.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 7.86,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_07_jimmyoyang.mp3",
+    "voiceover_script": "Love wearing heels without any dating drama? Post your dream dresses on DressIt, and let sweet guys fund them for free.",
+    "audio_duration_sec": 10.66,
+    "caption": "I've been dating a lot of tall girls lately because it makes me look successful. \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #jimmyoyang #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:01.14",
+        "text": "I'VE BEEN DATING A"
+      },
+      {
+        "start": "0:00:01.14",
+        "end": "0:00:01.90",
+        "text": "LOT OF TALL GIRLS"
+      },
+      {
+        "start": "0:00:01.90",
+        "end": "0:00:03.66",
+        "text": "LATELY BECAUSE IT MAKES"
+      },
+      {
+        "start": "0:00:03.66",
+        "end": "0:00:04.60",
+        "text": "ME LOOK SUCCESSFUL."
+      },
+      {
+        "start": "0:00:07.80",
+        "end": "0:00:11.65",
+        "text": "LOVE WEARING HEELS\nWITHOUT THE DRAMA?"
+      },
+      {
+        "start": "0:00:12.77",
+        "end": "0:00:15.14",
+        "text": "POST YOUR DREAM DRESSES\nON DRESSIT"
+      },
+      {
+        "start": "0:00:16.00",
+        "end": "0:00:18.46",
+        "text": "AND LET SWEET GUYS\nFUND THEM FOR FREE!"
+      },
+      {
+        "start": "0:00:17.26",
+        "end": "0:00:19.06",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "id": "dglobal-batch10-div-08",
+    "slug": "div10_08_aliwong",
+    "comedian": "Ali Wong",
+    "title": "RELATIONSHIPS \u00b7 Husband & relationship dynamic \u00b7 Ali Wong \u00b7 DressIt",
+    "topic": "Husband & relationship dynamic",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/08_aliwong_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 4.0,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 4.0,
+      "cut2_dur": 4.0,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 8.0,
+      "setup_quote": "Single people, if you're romantically involved with somebody and they reveal a personality trait you don't like?",
+      "punchline_quote": "You could just leave! Move to another city and never see their stupid face again!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_06_angaevamariia_vid_YhozXb0A.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.53,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_08_aliwong.mp3",
+    "voiceover_script": "Post your wishlist on DressIt, and let sweet guys fund it for free, with zero drama.",
+    "audio_duration_sec": 8.33,
+    "caption": "Single people, if you're romantically involved with somebody and they reveal a personality trait you don't like? \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #aliwong #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:01.36",
+        "end": "0:00:03.84",
+        "text": "YOU SINGLE PEOPLE IF"
+      },
+      {
+        "start": "0:00:03.84",
+        "end": "0:00:05.96",
+        "text": "YOU'RE ROMANTICALLY INVOLVED WITH"
+      },
+      {
+        "start": "0:00:05.96",
+        "end": "0:00:07.80",
+        "text": "SOMEBODY AND THEN ALL"
+      },
+      {
+        "start": "0:00:07.80",
+        "end": "0:00:07.90",
+        "text": "THE"
+      },
+      {
+        "start": "0:00:08.20",
+        "end": "0:00:10.57",
+        "text": "POST YOUR WISHLIST\nON DRESSIT"
+      },
+      {
+        "start": "0:00:11.23",
+        "end": "0:00:12.52",
+        "text": "AND LET SWEET GUYS\nFUND IT FOR FREE"
+      },
+      {
+        "start": "0:00:12.75",
+        "end": "0:00:16.14",
+        "text": "WITH ZERO DRAMA!"
+      },
+      {
+        "start": "0:00:15.33",
+        "end": "0:00:17.13",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "id": "dglobal-batch10-div-09",
+    "slug": "div10_09_whitney",
+    "comedian": "Whitney Cummings",
+    "title": "RELATIONSHIPS \u00b7 Catcallers vs men with real effort \u00b7 Whitney Cummings \u00b7 DressIt",
+    "topic": "Catcallers vs men with real effort",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/09_whitney_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 3.8,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 3.8,
+      "cut2_dur": 3.8,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 7.6,
+      "setup_quote": "My new thing with catcallers is just do what they ask, because then they'll realize it's not what they want.",
+      "punchline_quote": "Next time a guy is like, hey baby smile, just be like: ahhhhhh!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_02_angaevamariia_vid_790GN4oq.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 7.57,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_09_whitney.mp3",
+    "voiceover_script": "Skip the low-effort boys, and meet guys who show real effort. Post your favorite outfit on DressIt, and let good guys fund it for free.",
+    "audio_duration_sec": 10.37,
+    "caption": "My new thing with catcallers is just do what they ask, because then they'll realize it's not what they want. \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #whitney #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:00.98",
+        "text": "BECAUSE THEN THEY'LL REALIZE"
+      },
+      {
+        "start": "0:00:00.98",
+        "end": "0:00:01.84",
+        "text": "IT'S NOT AT ALL"
+      },
+      {
+        "start": "0:00:01.84",
+        "end": "0:00:04.14",
+        "text": "WHAT THEY WANT. NEXT"
+      },
+      {
+        "start": "0:00:04.14",
+        "end": "0:00:04.78",
+        "text": "TIME A GUY'S LIKE,"
+      },
+      {
+        "start": "0:00:04.90",
+        "end": "0:00:05.94",
+        "text": "HEY, BABY, SMILE. JUST"
+      },
+      {
+        "start": "0:00:05.94",
+        "end": "0:00:06.64",
+        "text": "BE LIKE, EH!"
+      },
+      {
+        "start": "0:00:07.80",
+        "end": "0:00:09.76",
+        "text": "SKIP THE LOW-EFFORT BOYS\nAND MEET REAL GUYS"
+      },
+      {
+        "start": "0:00:10.29",
+        "end": "0:00:12.45",
+        "text": "POST YOUR FAVORITE OUTFIT\nON DRESSIT"
+      },
+      {
+        "start": "0:00:13.34",
+        "end": "0:00:18.17",
+        "text": "AND LET GOOD GUYS\nFUND IT FOR FREE!"
+      },
+      {
+        "start": "0:00:16.97",
+        "end": "0:00:18.77",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "id": "dglobal-batch10-div-10",
+    "slug": "div10_10_gianmarco",
+    "comedian": "Gianmarco Soresi",
+    "title": "RELATIONSHIPS \u00b7 Modern dating \u00b7 Gianmarco Soresi \u00b7 DressIt",
+    "topic": "Modern dating",
+    "standup_clip": {
+      "source_file": "/root/dressit-pipeline/curated_standup/segments/10_gianmarco_segment.mp4",
+      "cut1_ss": 0.0,
+      "cut1_dur": 4.0,
+      "cut1_crop": "scale=1080:1920",
+      "cut2_ss": 4.0,
+      "cut2_dur": 4.0,
+      "cut2_crop": "scale=1080:1920",
+      "standup_dur": 8.0,
+      "setup_quote": "Have years of dating left you tired and unfulfilled?",
+      "punchline_quote": "Do you like spontaneity but prefer stability? Well, maybe it's time to try: settling!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_05_angaevamariia_vid_KymX8LAP.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.38,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_div10_fixed_10_gianmarco.mp3",
+    "voiceover_script": "Skip the confusing dating rules. Post your dream dress on DressIt and get it funded for free.",
+    "audio_duration_sec": 8.18,
+    "caption": "Have years of dating left you tired and unfulfilled? \ud83d\ude02 Post your favorite outfit on DressIt and let sweet guys fund it for free! dressitnow.com \u2728\n\n#dating #gianmarco #standup #relationships #comedy #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.00",
+        "end": "0:00:00.72",
+        "text": "DO YOU, DO YOU"
+      },
+      {
+        "start": "0:00:00.72",
+        "end": "0:00:01.68",
+        "text": "HAVE ANY, ANY, UH,"
+      },
+      {
+        "start": "0:00:01.92",
+        "end": "0:00:05.26",
+        "text": "MENTAL, UH, DISORDERS? GENERAL"
+      },
+      {
+        "start": "0:00:05.26",
+        "end": "0:00:05.80",
+        "text": "ON WEED."
+      },
+      {
+        "start": "0:00:08.20",
+        "end": "0:00:10.86",
+        "text": "SKIP THE CONFUSING\nDATING RULES"
+      },
+      {
+        "start": "0:00:11.67",
+        "end": "0:00:13.84",
+        "text": "POST YOUR DREAM DRESS\nON DRESSIT"
+      },
+      {
+        "start": "0:00:14.45",
+        "end": "0:00:16.38",
+        "text": "AND GET IT FUNDED\nFOR FREE!"
+      },
+      {
+        "start": "0:00:15.18",
+        "end": "0:00:16.98",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  }
+]

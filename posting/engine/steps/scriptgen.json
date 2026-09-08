@@ -1,0 +1,9 @@
+{
+  "name": "scriptgen",
+  "type": "subprocess",
+  "command": ["python3", "/root/fshorts/scriptgen.py", "--job", "{job_id}"],
+  "cwd": "/root/fshorts",
+  "timeout": 600,
+  "stub": true,
+  "note": "STUBBED: scriptgen.py hardcodes JOBS_DIR=/root/fshorts/jobs (ROOT=script dir), so it cannot see engine jobs. Unstub after scriptgen learns FSHORTS_JOBS_DIR."
+}

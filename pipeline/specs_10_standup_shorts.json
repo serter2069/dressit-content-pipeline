@@ -1,0 +1,762 @@
+[
+  {
+    "number": 1,
+    "id": "dglobal-batch10-01",
+    "slug": "batch10_01",
+    "title": "RELATIONSHIPS · I Quit Dating Losers · DressIt",
+    "topic": "Dating Losers & Settling",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 4.2,
+      "cut1_dur": 2.35,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 6.55,
+      "cut2_dur": 6.05,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 8.4,
+      "setup_quote": "I've done so much work on myself in the last 5 years:",
+      "punchline_quote": "I quit dating losers! That took a minute."
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_01.mp3",
+    "voiceover_script": "Stop settling for guys who put in zero effort. Post your dream outfit on DressIt and let good guys fund it free at dressitnow.com!",
+    "word_count": 24,
+    "audio_duration_sec": 9.744,
+    "caption": "I quit dating losers — that took a minute! 💅 Stop settling for low-effort boys: post your dream outfit on DressIt and let good guys fund it for $0! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #datingstandards #postyouroutfit #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:01.10",
+        "text": "I'VE DONE SO MUCH WORK"
+      },
+      {
+        "start": "0:00:01.10",
+        "end": "0:00:01.90",
+        "text": "ON MYSELF..."
+      },
+      {
+        "start": "0:00:01.90",
+        "end": "0:00:02.80",
+        "text": "IN THE LAST 5 YEARS:"
+      },
+      {
+        "start": "0:00:02.80",
+        "end": "0:00:03.90",
+        "text": "I QUIT DATING LOSERS!"
+      },
+      {
+        "start": "0:00:03.90",
+        "end": "0:00:05.40",
+        "text": "THAT TOOK A MINUTE!"
+      },
+      {
+        "start": "0:00:05.40",
+        "end": "0:00:08.20",
+        "text": "THERE'S NO REHAB FOR THAT!"
+      },
+      {
+        "start": "0:00:08.60",
+        "end": "0:00:10.80",
+        "text": "STOP SETTLING FOR GUYS\nWITH ZERO EFFORT!"
+      },
+      {
+        "start": "0:00:10.80",
+        "end": "0:00:13.20",
+        "text": "POST YOUR DREAM OUTFIT\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:13.20",
+        "end": "0:00:15.60",
+        "text": "AND LET GOOD GUYS\nFUND IT FREE!"
+      },
+      {
+        "start": "0:00:15.60",
+        "end": "0:00:17.60",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "id": "dglobal-batch10-02",
+    "slug": "batch10_02",
+    "title": "RELATIONSHIPS · Losers Are Like Cigarettes · DressIt",
+    "topic": "Red Flags & Cigarette Boys",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 19.03,
+      "cut1_dur": 4.22,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 23.25,
+      "cut2_dur": 4.18,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 8.4,
+      "setup_quote": "Losers are a lot like cigarettes: you have one in your mouth, you feel pretty cool...",
+      "punchline_quote": "But everyone around you is like: 'Ew, we're sad for you! Don't do that around my kids!'"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_06_angaevamariia_vid_YhozXb0A.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_02_angaevamariia_vid_790GN4oq.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_02.mp3",
+    "voiceover_script": "Drop the cigarette boys and get treated right. Post your dream dress on DressIt and let generous guys fund it free at dressitnow.com!",
+    "word_count": 23,
+    "audio_duration_sec": 10.176,
+    "caption": "Losers are a lot like cigarettes: everyone is sad for you! 🚬 Drop the cigarette boy already: on DressIt, generous guys fund your dream dress for $0! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #redflags #datingstandards #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:01.80",
+        "text": "LOSERS ARE A LOT LIKE CIGARETTES:"
+      },
+      {
+        "start": "0:00:01.80",
+        "end": "0:00:03.00",
+        "text": "YOU HAVE ONE IN YOUR MOUTH..."
+      },
+      {
+        "start": "0:00:03.00",
+        "end": "0:00:04.22",
+        "text": "AND YOU FEEL PRETTY COOL..."
+      },
+      {
+        "start": "0:00:04.22",
+        "end": "0:00:05.80",
+        "text": "BUT EVERYONE AROUND YOU IS LIKE:"
+      },
+      {
+        "start": "0:00:05.80",
+        "end": "0:00:07.10",
+        "text": "'EW, WE'RE SAD FOR YOU!'"
+      },
+      {
+        "start": "0:00:07.10",
+        "end": "0:00:08.30",
+        "text": "'DON'T DO THAT AROUND MY KIDS!'"
+      },
+      {
+        "start": "0:00:08.60",
+        "end": "0:00:10.80",
+        "text": "DROP THE CIGARETTE BOYS\nAND GET TREATED RIGHT!"
+      },
+      {
+        "start": "0:00:10.80",
+        "end": "0:00:13.20",
+        "text": "POST YOUR DREAM DRESS\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:13.20",
+        "end": "0:00:15.60",
+        "text": "AND LET GENEROUS GUYS\nFUND IT FREE!"
+      },
+      {
+        "start": "0:00:15.60",
+        "end": "0:00:17.60",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "id": "dglobal-batch10-03",
+    "slug": "batch10_03",
+    "title": "RELATIONSHIPS · Guy With A Car & A Job · DressIt",
+    "topic": "Unrealistic Dating Advice & Married Men",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 32.12,
+      "cut1_dur": 2.18,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 34.3,
+      "cut2_dur": 6.22,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 8.4,
+      "setup_quote": "All my friends are like: 'You need a guy with a car and a job!'",
+      "punchline_quote": "And I'm like: 'Yeah, then I gotta deal with his wife! A whole complication!'"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_05_angaevamariia_vid_KymX8LAP.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_03.mp3",
+    "voiceover_script": "Skip the married drama completely. Post your favorite outfit on DressIt and meet actually single guys who fund your style at dressitnow.com!",
+    "word_count": 22,
+    "audio_duration_sec": 11.04,
+    "caption": "A guy with a car and a job... but his wife! 😂 Skip the married-man drama completely: DressIt has actually single guys who fund your style for $0! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #datingadvice #singlelife #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:01.20",
+        "text": "ALL MY FRIENDS ARE LIKE:"
+      },
+      {
+        "start": "0:00:01.20",
+        "end": "0:00:02.18",
+        "text": "'YOU NEED A GUY WITH A CAR AND A JOB!'"
+      },
+      {
+        "start": "0:00:02.18",
+        "end": "0:00:03.80",
+        "text": "AND I'M LIKE: 'YEAH..."
+      },
+      {
+        "start": "0:00:03.80",
+        "end": "0:00:05.80",
+        "text": "THEN I GOTTA DEAL WITH HIS WIFE!'"
+      },
+      {
+        "start": "0:00:05.80",
+        "end": "0:00:08.30",
+        "text": "A WHOLE THING!"
+      },
+      {
+        "start": "0:00:08.60",
+        "end": "0:00:10.80",
+        "text": "SKIP THE MARRIED DRAMA\nCOMPLETELY!"
+      },
+      {
+        "start": "0:00:10.80",
+        "end": "0:00:13.20",
+        "text": "POST YOUR FAVORITE OUTFIT\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:13.20",
+        "end": "0:00:15.60",
+        "text": "MEET ACTUALLY SINGLE GUYS\nWHO FUND YOUR STYLE!"
+      },
+      {
+        "start": "0:00:15.60",
+        "end": "0:00:17.60",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "id": "dglobal-batch10-04",
+    "slug": "batch10_04",
+    "title": "RELATIONSHIPS · Trust Issues & Dating Liars · DressIt",
+    "topic": "Trust Issues & Liars",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 465.16,
+      "cut1_dur": 4.04,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 469.2,
+      "cut2_dur": 4.36,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 8.4,
+      "setup_quote": "Every guy I've ever dated has told me I have trust issues...",
+      "punchline_quote": "Which is something liars say when you're onto them!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_04.mp3",
+    "voiceover_script": "Tired of liars giving you trust issues? Post your wishlist on DressIt and meet honest guys who actually fund your dresses at dressitnow.com!",
+    "word_count": 23,
+    "audio_duration_sec": 9.624,
+    "caption": "Every guy told me I have trust issues — which is what liars say when you're onto them! 💅 Connect with honest guys on DressIt who fund your dream dresses for $0! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #trustissues #redflags #datingstandards #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:02.10",
+        "text": "EVERY GUY I'VE EVER DATED"
+      },
+      {
+        "start": "0:00:02.10",
+        "end": "0:00:04.04",
+        "text": "HAS TOLD ME I HAVE TRUST ISSUES!"
+      },
+      {
+        "start": "0:00:04.04",
+        "end": "0:00:05.80",
+        "text": "WHICH IS SOMETHING LIARS SAY..."
+      },
+      {
+        "start": "0:00:05.80",
+        "end": "0:00:08.30",
+        "text": "WHEN YOU'RE ONTO THEM!"
+      },
+      {
+        "start": "0:00:08.60",
+        "end": "0:00:10.80",
+        "text": "TIRED OF LIARS\nGIVING YOU TRUST ISSUES?"
+      },
+      {
+        "start": "0:00:10.80",
+        "end": "0:00:13.20",
+        "text": "POST YOUR WISHLIST\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:13.20",
+        "end": "0:00:15.60",
+        "text": "AND MEET HONEST GUYS\nWHO FUND YOUR DRESSES!"
+      },
+      {
+        "start": "0:00:15.60",
+        "end": "0:00:17.60",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "id": "dglobal-batch10-05",
+    "slug": "batch10_05",
+    "title": "RELATIONSHIPS · Cheated On Me In My Head · DressIt",
+    "topic": "Overthinking & Breakups",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 69.48,
+      "cut1_dur": 5.42,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 80.0,
+      "cut2_dur": 2.5,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 7.92,
+      "setup_quote": "He and I broke up because he cheated on me in my head, and I could not!",
+      "punchline_quote": "Sorry, if you love me, you wouldn't even do it up here!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_07_angaevamariia_vid_k0QcluXY.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_06_angaevamariia_vid_YhozXb0A.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_05.mp3",
+    "voiceover_script": "Stop stressing over boys who cannot even behave in your head. Post your dream outfit on DressIt and let sweet guys fund it at dressitnow.com!",
+    "word_count": 25,
+    "audio_duration_sec": 10.896,
+    "caption": "He cheated on me in my head — if you love me, you wouldn't even do it up here! 😂 Post your dream outfit on DressIt and let sweet guys fund it for $0! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #overthinking #datinghumor #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:02.00",
+        "text": "HE AND I BROKE UP..."
+      },
+      {
+        "start": "0:00:02.00",
+        "end": "0:00:04.20",
+        "text": "BECAUSE HE CHEATED ON ME IN MY HEAD!"
+      },
+      {
+        "start": "0:00:04.20",
+        "end": "0:00:05.42",
+        "text": "AND I COULD NOT!"
+      },
+      {
+        "start": "0:00:05.42",
+        "end": "0:00:06.80",
+        "text": "IF YOU LOVE ME..."
+      },
+      {
+        "start": "0:00:06.80",
+        "end": "0:00:07.90",
+        "text": "YOU WOULDN'T EVEN DO IT UP HERE!"
+      },
+      {
+        "start": "0:00:08.20",
+        "end": "0:00:10.40",
+        "text": "STOP STRESSING OVER BOYS\nWHO CAN'T EVEN BEHAVE!"
+      },
+      {
+        "start": "0:00:10.40",
+        "end": "0:00:12.80",
+        "text": "POST YOUR DREAM OUTFIT\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:12.80",
+        "end": "0:00:15.20",
+        "text": "AND LET SWEET GUYS\nFUND IT FREE!"
+      },
+      {
+        "start": "0:00:15.20",
+        "end": "0:00:17.20",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "id": "dglobal-batch10-06",
+    "slug": "batch10_06",
+    "title": "RELATIONSHIPS · Signs He Is Cheating · DressIt",
+    "topic": "Red Flags & Cheating Articles",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 93.3,
+      "cut1_dur": 4.55,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 100.0,
+      "cut2_dur": 4.5,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 9.05,
+      "setup_quote": "Did he buy you flowers? He feels guilty!",
+      "punchline_quote": "Did he call you babe? He doesn't know your name!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_02_angaevamariia_vid_790GN4oq.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_06.mp3",
+    "voiceover_script": "No guilty flowers or fake nicknames. Post the exact dress you want on DressIt and let real guys fund it with zero drama at dressitnow.com!",
+    "word_count": 25,
+    "audio_duration_sec": 10.392,
+    "caption": "Did he buy you flowers? He feels guilty! Did he call you babe? He doesn't know your name! 💐 Skip the drama: let real guys fund your dream dress on DressIt! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #redflags #datingadvice #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:01.80",
+        "text": "DID HE BUY YOU FLOWERS?"
+      },
+      {
+        "start": "0:00:01.80",
+        "end": "0:00:03.50",
+        "text": "HE FEELS GUILTY!"
+      },
+      {
+        "start": "0:00:03.50",
+        "end": "0:00:04.55",
+        "text": "THEY'RE ALL THE SAME!"
+      },
+      {
+        "start": "0:00:04.55",
+        "end": "0:00:06.50",
+        "text": "DID HE CALL YOU BABE?"
+      },
+      {
+        "start": "0:00:06.50",
+        "end": "0:00:08.90",
+        "text": "HE DOESN'T KNOW YOUR NAME!"
+      },
+      {
+        "start": "0:00:09.20",
+        "end": "0:00:11.40",
+        "text": "NO GUILTY FLOWERS\nOR FAKE NICKNAMES!"
+      },
+      {
+        "start": "0:00:11.40",
+        "end": "0:00:13.80",
+        "text": "POST THE DRESS YOU WANT\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:13.80",
+        "end": "0:00:16.20",
+        "text": "AND LET REAL GUYS FUND IT\nWITH ZERO DRAMA!"
+      },
+      {
+        "start": "0:00:16.20",
+        "end": "0:00:18.20",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "id": "dglobal-batch10-07",
+    "slug": "batch10_07",
+    "title": "RELATIONSHIPS · Tinder Opening Lines · DressIt",
+    "topic": "Dating Apps & Fake Pickup Lines",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 234.4,
+      "cut1_dur": 4.2,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 238.9,
+      "cut2_dur": 4.4,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 8.6,
+      "setup_quote": "I talked to a guy on Tinder. His opening line on everybody was:",
+      "punchline_quote": "'So, do you like sunrises or sunsets?' ...That's poetry!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_05_angaevamariia_vid_KymX8LAP.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_07.mp3",
+    "voiceover_script": "Skip the lazy dating app lines. Post the outfit you have been eyeing on DressIt and let guys show real effort by funding it at dressitnow.com!",
+    "word_count": 26,
+    "audio_duration_sec": 10.992,
+    "caption": "Tinder opening line: Do you like sunrises or sunsets? 🌅 Skip the lazy dating app lines! Post your style on DressIt and let guys show real effort by funding it! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #tinder #pickuplines #datingapps #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:02.10",
+        "text": "I TALKED TO A GUY ON TINDER."
+      },
+      {
+        "start": "0:00:02.10",
+        "end": "0:00:04.20",
+        "text": "HIS OPENING LINE ON EVERYBODY WAS:"
+      },
+      {
+        "start": "0:00:04.20",
+        "end": "0:00:06.20",
+        "text": "'SO, DO YOU LIKE SUNRISES OR SUNSETS?'"
+      },
+      {
+        "start": "0:00:06.20",
+        "end": "0:00:08.50",
+        "text": "THAT'S A GREAT LINE!"
+      },
+      {
+        "start": "0:00:08.80",
+        "end": "0:00:11.00",
+        "text": "SKIP THE LAZY\nDATING APP LINES!"
+      },
+      {
+        "start": "0:00:11.00",
+        "end": "0:00:13.40",
+        "text": "POST THE OUTFIT YOU WANT\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:13.40",
+        "end": "0:00:15.80",
+        "text": "AND LET GUYS SHOW EFFORT\nBY FUNDING IT FREE!"
+      },
+      {
+        "start": "0:00:15.80",
+        "end": "0:00:17.80",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "id": "dglobal-batch10-08",
+    "slug": "batch10_08",
+    "title": "RELATIONSHIPS · Is This Your Move? · DressIt",
+    "topic": "Guys Pulling Moves On Dates",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 495.55,
+      "cut1_dur": 5.25,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 501.35,
+      "cut2_dur": 3.65,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 8.9,
+      "setup_quote": "At the beginning of a relationship, I'm like: 'Is this your move? You open the car door for me...'",
+      "punchline_quote": "On the date, this is like your move! This is how you do it!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_07_angaevamariia_vid_k0QcluXY.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_08.mp3",
+    "voiceover_script": "Looking for a guy with real moves? Post your dream outfit on DressIt and let guys who know how to treat a girl fund it at dressitnow.com!",
+    "word_count": 27,
+    "audio_duration_sec": 9.624,
+    "caption": "Is this your move? Opening the car door for me! 🚗 Looking for a guy with real moves? Post your dream outfit on DressIt and let quality guys fund it! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #datingstandards #chivalry #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:02.50",
+        "text": "I'M LIKE: 'IS THIS YOUR MOVE?'"
+      },
+      {
+        "start": "0:00:02.50",
+        "end": "0:00:04.20",
+        "text": "YOU OPEN THE CAR DOOR FOR ME..."
+      },
+      {
+        "start": "0:00:04.20",
+        "end": "0:00:05.25",
+        "text": "ON THE DATE..."
+      },
+      {
+        "start": "0:00:05.25",
+        "end": "0:00:07.10",
+        "text": "THIS IS LIKE YOUR MOVE!"
+      },
+      {
+        "start": "0:00:07.10",
+        "end": "0:00:08.80",
+        "text": "THIS IS HOW YOU DO IT!"
+      },
+      {
+        "start": "0:00:09.10",
+        "end": "0:00:11.30",
+        "text": "LOOKING FOR A GUY\nWITH REAL MOVES?"
+      },
+      {
+        "start": "0:00:11.30",
+        "end": "0:00:13.60",
+        "text": "POST YOUR DREAM OUTFIT\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:13.60",
+        "end": "0:00:16.00",
+        "text": "AND LET GUYS WHO KNOW\nHOW TO TREAT YOU FUND IT!"
+      },
+      {
+        "start": "0:00:16.00",
+        "end": "0:00:18.00",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "id": "dglobal-batch10-09",
+    "slug": "batch10_09",
+    "title": "RELATIONSHIPS · Chocolate Covered Raisins · DressIt",
+    "topic": "Settling Down vs Just Settling",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 579.8,
+      "cut1_dur": 3.8,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 592.8,
+      "cut2_dur": 4.5,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 8.3,
+      "setup_quote": "A lot of my friends are settling down, some of them are just settling, period!",
+      "punchline_quote": "I like to call those couples chocolate covered raisins!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_06_angaevamariia_vid_YhozXb0A.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_05_angaevamariia_vid_KymX8LAP.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_09.mp3",
+    "voiceover_script": "Never settle for raisin energy in dating. Post your favorite style on DressIt and let top tier guys fund your wardrobe for free at dressitnow.com!",
+    "word_count": 25,
+    "audio_duration_sec": 10.536,
+    "caption": "Some friends are settling down, some are just settling — chocolate covered raisins! 🍫 Never settle: post your favorite style on DressIt and let guys fund it! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #settling #datingstandards #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:01.80",
+        "text": "A LOT OF MY FRIENDS ARE SETTLING DOWN..."
+      },
+      {
+        "start": "0:00:01.80",
+        "end": "0:00:03.80",
+        "text": "SOME OF THEM ARE JUST SETTLING, PERIOD!"
+      },
+      {
+        "start": "0:00:03.80",
+        "end": "0:00:05.80",
+        "text": "I LIKE TO CALL THOSE COUPLES..."
+      },
+      {
+        "start": "0:00:05.80",
+        "end": "0:00:08.20",
+        "text": "CHOCOLATE COVERED RAISINS!"
+      },
+      {
+        "start": "0:00:08.50",
+        "end": "0:00:10.70",
+        "text": "NEVER SETTLE FOR\nRAISIN ENERGY IN DATING!"
+      },
+      {
+        "start": "0:00:10.70",
+        "end": "0:00:13.10",
+        "text": "POST YOUR FAVORITE STYLE\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:13.10",
+        "end": "0:00:15.50",
+        "text": "AND LET TOP-TIER GUYS\nFUND YOUR WARDROBE!"
+      },
+      {
+        "start": "0:00:15.50",
+        "end": "0:00:17.50",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "id": "dglobal-batch10-10",
+    "slug": "batch10_10",
+    "title": "RELATIONSHIPS · Peanut Butter Cures Depression · DressIt",
+    "topic": "Knowing Your Value & Not Settling",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "cut1_ss": 605.2,
+      "cut1_dur": 3.8,
+      "cut1_crop": "crop=540:960:480:0,scale=1080:1920:flags=lanczos",
+      "cut2_ss": 611.8,
+      "cut2_dur": 4.2,
+      "cut2_crop": "crop=540:960:564:0,scale=1080:1920:flags=lanczos",
+      "standup_dur": 8.0,
+      "setup_quote": "Chocolate, what are you doing?! You could have been with caramel...",
+      "punchline_quote": "You could have been with peanut butter, who I heard cures depression!"
+    },
+    "ugc_cut_a": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+    "ugc_cut_a_ss": 1.5,
+    "ugc_cut_a_dur": 3.6,
+    "ugc_cut_b": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+    "ugc_cut_b_ss": 2.0,
+    "ugc_cut_b_dur": 5.4,
+    "audio_asset": "/root/dressit-pipeline/assets/voice_standup10_10.mp3",
+    "voiceover_script": "You deserve the peanut butter guy who cures depression. Post your dream dress on DressIt and let great guys fund it completely free at dressitnow.com!",
+    "word_count": 25,
+    "audio_duration_sec": 10.944,
+    "caption": "Chocolate, you could have been with peanut butter, who cures depression! 🥜 You deserve the peanut butter guy: get your dream dress funded on DressIt! dressitnow.com ✨\n\n#dating #relationships #taylortomlinson #standards #wholesome #freedress #dressit",
+    "dialogue": [
+      {
+        "start": "0:00:00.12",
+        "end": "0:00:01.80",
+        "text": "CHOCOLATE, WHAT ARE YOU DOING?!"
+      },
+      {
+        "start": "0:00:01.80",
+        "end": "0:00:03.80",
+        "text": "YOU COULD HAVE BEEN WITH CARAMEL..."
+      },
+      {
+        "start": "0:00:03.80",
+        "end": "0:00:05.80",
+        "text": "OR WITH PEANUT BUTTER..."
+      },
+      {
+        "start": "0:00:05.80",
+        "end": "0:00:07.90",
+        "text": "WHO I HEARD CURES DEPRESSION!"
+      },
+      {
+        "start": "0:00:08.20",
+        "end": "0:00:10.40",
+        "text": "YOU DESERVE THE GUY\nWHO CURES DEPRESSION!"
+      },
+      {
+        "start": "0:00:10.40",
+        "end": "0:00:12.80",
+        "text": "POST YOUR DREAM DRESS\nON DRESSIT..."
+      },
+      {
+        "start": "0:00:12.80",
+        "end": "0:00:15.20",
+        "text": "AND LET GREAT GUYS\nFUND IT FREE!"
+      },
+      {
+        "start": "0:00:15.20",
+        "end": "0:00:17.20",
+        "text": "DRESSITNOW.COM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "model": "openai/gpt-audio",
+  "prompt_tokens": 138,
+  "completion_tokens": 235,
+  "total_tokens": 373,
+  "audio_tokens": 196,
+  "cost_usd": 0.013279,
+  "raw_usage": {
+    "prompt_tokens": 138,
+    "completion_tokens": 235,
+    "total_tokens": 373,
+    "cost": 0.013279,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.013279,
+      "upstream_inference_prompt_cost": 0.000345,
+      "upstream_inference_completions_cost": 0.012934
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 196
+    }
+  }
+}

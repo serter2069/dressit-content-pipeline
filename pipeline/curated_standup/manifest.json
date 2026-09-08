@@ -1,0 +1,1759 @@
+{
+  "title": "Curated Standup Comedian Dating Clips Manifest",
+  "total_clips": 10,
+  "target_format": "1080x1920 (9:16 vertical)",
+  "duration_range_sec": "8.0s - 8.5s",
+  "clips": [
+    {
+      "id": 1,
+      "comedian_key": "ianlara",
+      "comedian_name": "Ian Lara",
+      "topic": "Bitcoin dating / stock going up",
+      "source_file": "/root/dressit-shorts/clips/VP2GWZomhE8.mp4",
+      "source_resolution": "608x1080",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/01_ianlara_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 4.5,
+      "duration": 8.5,
+      "end_ss": 13.0,
+      "setup_quote": "African-Latino, and if you've never heard of that, basically we're like the next big thing.",
+      "punchline_quote": "They compare us to Bitcoin in 2011, it's like, invest now because the stock is going up!",
+      "transcription": {
+        "full_text": "African Latino. And if you've never heard of that, basically, we'll like the next big thing.",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 6.92,
+            "text": "African Latino. And if you've never heard of that, basically, we'll like the next big thing."
+          }
+        ],
+        "words": [
+          {
+            "word": "African",
+            "start": 0.0,
+            "end": 0.28,
+            "probability": 0.07
+          },
+          {
+            "word": "Latino.",
+            "start": 0.28,
+            "end": 1.0,
+            "probability": 0.76
+          },
+          {
+            "word": "And",
+            "start": 1.64,
+            "end": 2.22,
+            "probability": 0.88
+          },
+          {
+            "word": "if",
+            "start": 2.22,
+            "end": 2.32,
+            "probability": 0.99
+          },
+          {
+            "word": "you've",
+            "start": 2.32,
+            "end": 2.44,
+            "probability": 0.97
+          },
+          {
+            "word": "never",
+            "start": 2.44,
+            "end": 2.54,
+            "probability": 1.0
+          },
+          {
+            "word": "heard",
+            "start": 2.54,
+            "end": 2.86,
+            "probability": 1.0
+          },
+          {
+            "word": "of",
+            "start": 2.86,
+            "end": 3.0,
+            "probability": 0.98
+          },
+          {
+            "word": "that,",
+            "start": 3.0,
+            "end": 3.24,
+            "probability": 0.99
+          },
+          {
+            "word": "basically,",
+            "start": 3.96,
+            "end": 4.64,
+            "probability": 0.99
+          },
+          {
+            "word": "we'll",
+            "start": 5.16,
+            "end": 5.86,
+            "probability": 0.66
+          },
+          {
+            "word": "like",
+            "start": 5.86,
+            "end": 5.98,
+            "probability": 0.94
+          },
+          {
+            "word": "the",
+            "start": 5.98,
+            "end": 6.14,
+            "probability": 0.99
+          },
+          {
+            "word": "next",
+            "start": 6.14,
+            "end": 6.38,
+            "probability": 0.99
+          },
+          {
+            "word": "big",
+            "start": 6.38,
+            "end": 6.68,
+            "probability": 0.97
+          },
+          {
+            "word": "thing.",
+            "start": 6.68,
+            "end": 6.92,
+            "probability": 0.99
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1169:2077:force_original_aspect_ratio=increase,crop=1080:1920:6:0"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "comedian_key": "taylor",
+      "comedian_name": "Taylor Tomlinson",
+      "topic": "Quitting dating losers",
+      "source_file": "/root/dressit-pipeline/curated_standup/sources/taylor_tomlinson_zEbrFZT2rjM.mp4",
+      "source_resolution": "480x852",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/02_taylor_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 13.5,
+      "duration": 8.5,
+      "end_ss": 22.0,
+      "setup_quote": "Losers are hard to quit. Losers are a lot like cigarettes.",
+      "punchline_quote": "You have one in your mouth, you feel pretty cool, but everyone around you is like, ew, we're sad for you.",
+      "transcription": {
+        "full_text": "Loses are hard to quit. Loses are a lot like cigarettes. You have one in your mouth. You feel pretty cool But everyone around you's like, ew, we're sad for you",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 4.38,
+            "text": "Loses are hard to quit. Loses are a lot like cigarettes. You have one in your mouth. You feel pretty cool"
+          },
+          {
+            "start": 4.38,
+            "end": 6.9,
+            "text": "But everyone around you's like, ew, we're sad for you"
+          }
+        ],
+        "words": [
+          {
+            "word": "Loses",
+            "start": 0.0,
+            "end": 0.52,
+            "probability": 0.5
+          },
+          {
+            "word": "are",
+            "start": 0.52,
+            "end": 0.68,
+            "probability": 0.95
+          },
+          {
+            "word": "hard",
+            "start": 0.68,
+            "end": 0.94,
+            "probability": 0.66
+          },
+          {
+            "word": "to",
+            "start": 0.94,
+            "end": 1.12,
+            "probability": 0.99
+          },
+          {
+            "word": "quit.",
+            "start": 1.12,
+            "end": 1.34,
+            "probability": 0.99
+          },
+          {
+            "word": "Loses",
+            "start": 1.56,
+            "end": 1.7,
+            "probability": 0.97
+          },
+          {
+            "word": "are",
+            "start": 1.7,
+            "end": 1.86,
+            "probability": 0.99
+          },
+          {
+            "word": "a",
+            "start": 1.86,
+            "end": 1.92,
+            "probability": 0.96
+          },
+          {
+            "word": "lot",
+            "start": 1.92,
+            "end": 2.04,
+            "probability": 1.0
+          },
+          {
+            "word": "like",
+            "start": 2.04,
+            "end": 2.24,
+            "probability": 0.99
+          },
+          {
+            "word": "cigarettes.",
+            "start": 2.24,
+            "end": 2.64,
+            "probability": 0.99
+          },
+          {
+            "word": "You",
+            "start": 2.9,
+            "end": 2.92,
+            "probability": 0.99
+          },
+          {
+            "word": "have",
+            "start": 2.92,
+            "end": 3.02,
+            "probability": 0.99
+          },
+          {
+            "word": "one",
+            "start": 3.02,
+            "end": 3.16,
+            "probability": 0.99
+          },
+          {
+            "word": "in",
+            "start": 3.16,
+            "end": 3.24,
+            "probability": 1.0
+          },
+          {
+            "word": "your",
+            "start": 3.24,
+            "end": 3.36,
+            "probability": 0.99
+          },
+          {
+            "word": "mouth.",
+            "start": 3.36,
+            "end": 3.66,
+            "probability": 1.0
+          },
+          {
+            "word": "You",
+            "start": 3.78,
+            "end": 3.78,
+            "probability": 0.95
+          },
+          {
+            "word": "feel",
+            "start": 3.78,
+            "end": 3.92,
+            "probability": 1.0
+          },
+          {
+            "word": "pretty",
+            "start": 3.92,
+            "end": 4.1,
+            "probability": 1.0
+          },
+          {
+            "word": "cool",
+            "start": 4.1,
+            "end": 4.38,
+            "probability": 1.0
+          },
+          {
+            "word": "But",
+            "start": 4.38,
+            "end": 4.58,
+            "probability": 0.05
+          },
+          {
+            "word": "everyone",
+            "start": 4.58,
+            "end": 4.76,
+            "probability": 0.36
+          },
+          {
+            "word": "around",
+            "start": 4.76,
+            "end": 5.06,
+            "probability": 1.0
+          },
+          {
+            "word": "you's",
+            "start": 5.06,
+            "end": 5.4,
+            "probability": 0.63
+          },
+          {
+            "word": "like,",
+            "start": 5.4,
+            "end": 5.54,
+            "probability": 0.99
+          },
+          {
+            "word": "ew,",
+            "start": 5.64,
+            "end": 5.86,
+            "probability": 0.08
+          },
+          {
+            "word": "we're",
+            "start": 6.08,
+            "end": 6.12,
+            "probability": 0.98
+          },
+          {
+            "word": "sad",
+            "start": 6.12,
+            "end": 6.4,
+            "probability": 0.99
+          },
+          {
+            "word": "for",
+            "start": 6.4,
+            "end": 6.7,
+            "probability": 0.99
+          },
+          {
+            "word": "you",
+            "start": 6.7,
+            "end": 6.9,
+            "probability": 0.98
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1119:1987:force_original_aspect_ratio=increase,crop=1080:1920:4:66"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "comedian_key": "nikki",
+      "comedian_name": "Nikki Glaser",
+      "topic": "Compatibility over chemistry",
+      "source_file": "/root/dressit-shorts/clips/4Od7DrVAypc.mp4",
+      "source_resolution": "608x1080",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/03_nikki_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 0.0,
+      "duration": 8.0,
+      "end_ss": 8.0,
+      "setup_quote": "People love to ask me, like, chemistry or compatibility.",
+      "punchline_quote": "And I'm like, compatibility 100% of the time. Do you want to move through the world similarly?",
+      "transcription": {
+        "full_text": "People love to ask me, like, chemistry or compatibility, and I'm like, compatibility 100% of the time. Do you want to move through the world similarly?",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "People love to ask me, like, chemistry or compatibility,"
+          },
+          {
+            "start": 2.1,
+            "end": 5.56,
+            "text": "and I'm like, compatibility 100% of the time."
+          },
+          {
+            "start": 5.8,
+            "end": 7.76,
+            "text": "Do you want to move through the world similarly?"
+          }
+        ],
+        "words": [
+          {
+            "word": "People",
+            "start": 0.0,
+            "end": 0.2,
+            "probability": 0.68
+          },
+          {
+            "word": "love",
+            "start": 0.2,
+            "end": 0.38,
+            "probability": 0.7
+          },
+          {
+            "word": "to",
+            "start": 0.38,
+            "end": 0.46,
+            "probability": 0.99
+          },
+          {
+            "word": "ask",
+            "start": 0.46,
+            "end": 0.58,
+            "probability": 0.99
+          },
+          {
+            "word": "me,",
+            "start": 0.58,
+            "end": 0.72,
+            "probability": 0.98
+          },
+          {
+            "word": "like,",
+            "start": 0.76,
+            "end": 0.8,
+            "probability": 0.85
+          },
+          {
+            "word": "chemistry",
+            "start": 0.94,
+            "end": 1.24,
+            "probability": 0.68
+          },
+          {
+            "word": "or",
+            "start": 1.24,
+            "end": 1.44,
+            "probability": 0.95
+          },
+          {
+            "word": "compatibility,",
+            "start": 1.44,
+            "end": 2.0,
+            "probability": 0.99
+          },
+          {
+            "word": "and",
+            "start": 2.1,
+            "end": 2.36,
+            "probability": 0.98
+          },
+          {
+            "word": "I'm",
+            "start": 2.36,
+            "end": 2.48,
+            "probability": 0.98
+          },
+          {
+            "word": "like,",
+            "start": 2.48,
+            "end": 2.54,
+            "probability": 0.88
+          },
+          {
+            "word": "compatibility",
+            "start": 2.72,
+            "end": 3.52,
+            "probability": 0.95
+          },
+          {
+            "word": "100",
+            "start": 3.52,
+            "end": 4.24,
+            "probability": 0.43
+          },
+          {
+            "word": "%",
+            "start": 4.24,
+            "end": 4.74,
+            "probability": 0.94
+          },
+          {
+            "word": "of",
+            "start": 4.74,
+            "end": 5.0,
+            "probability": 1.0
+          },
+          {
+            "word": "the",
+            "start": 5.0,
+            "end": 5.18,
+            "probability": 1.0
+          },
+          {
+            "word": "time.",
+            "start": 5.18,
+            "end": 5.56,
+            "probability": 1.0
+          },
+          {
+            "word": "Do",
+            "start": 5.8,
+            "end": 5.9,
+            "probability": 0.95
+          },
+          {
+            "word": "you",
+            "start": 5.9,
+            "end": 6.1,
+            "probability": 1.0
+          },
+          {
+            "word": "want",
+            "start": 6.1,
+            "end": 6.26,
+            "probability": 0.81
+          },
+          {
+            "word": "to",
+            "start": 6.26,
+            "end": 6.36,
+            "probability": 1.0
+          },
+          {
+            "word": "move",
+            "start": 6.36,
+            "end": 6.62,
+            "probability": 1.0
+          },
+          {
+            "word": "through",
+            "start": 6.62,
+            "end": 6.92,
+            "probability": 1.0
+          },
+          {
+            "word": "the",
+            "start": 6.92,
+            "end": 7.06,
+            "probability": 1.0
+          },
+          {
+            "word": "world",
+            "start": 7.06,
+            "end": 7.32,
+            "probability": 1.0
+          },
+          {
+            "word": "similarly?",
+            "start": 7.32,
+            "end": 7.76,
+            "probability": 0.87
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 8,
+        "passed_samples": 8,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1154:2049:force_original_aspect_ratio=increase,crop=1080:1920:'clip(72 + (74 - 72)*t/8.300, 0, in_w-out_w)':128"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "comedian_key": "fortune",
+      "comedian_name": "Fortune Feimster",
+      "topic": "Mom's marriage pressure & cheerleaders",
+      "source_file": "/root/dressit-shorts/clips/d3hy_XNU458.mp4",
+      "source_resolution": "480x854",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/04_fortune_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 30.0,
+      "duration": 8.4,
+      "end_ss": 38.4,
+      "setup_quote": "Ashley Davidson, she had long dark hair, she was on the cheerleading squad.",
+      "punchline_quote": "I'm like, no, Mom, it still does not ring a bell.",
+      "transcription": {
+        "full_text": "She's on the cheerleading squad I'm like no mom is still does not ring a bell",
+        "segments": [
+          {
+            "start": 2.66,
+            "end": 7.22,
+            "text": "She's on the cheerleading squad I'm like no mom is still does not ring a bell"
+          }
+        ],
+        "words": [
+          {
+            "word": "She's",
+            "start": 2.66,
+            "end": 3.1,
+            "probability": 0.28
+          },
+          {
+            "word": "on",
+            "start": 3.1,
+            "end": 3.22,
+            "probability": 0.49
+          },
+          {
+            "word": "the",
+            "start": 3.22,
+            "end": 3.36,
+            "probability": 0.83
+          },
+          {
+            "word": "cheerleading",
+            "start": 3.36,
+            "end": 3.9,
+            "probability": 0.73
+          },
+          {
+            "word": "squad",
+            "start": 3.9,
+            "end": 4.44,
+            "probability": 0.98
+          },
+          {
+            "word": "I'm",
+            "start": 4.44,
+            "end": 4.72,
+            "probability": 0.54
+          },
+          {
+            "word": "like",
+            "start": 4.72,
+            "end": 4.84,
+            "probability": 0.98
+          },
+          {
+            "word": "no",
+            "start": 4.84,
+            "end": 5.1,
+            "probability": 0.68
+          },
+          {
+            "word": "mom",
+            "start": 5.1,
+            "end": 5.7,
+            "probability": 0.61
+          },
+          {
+            "word": "is",
+            "start": 5.7,
+            "end": 5.9,
+            "probability": 0.96
+          },
+          {
+            "word": "still",
+            "start": 5.9,
+            "end": 6.12,
+            "probability": 0.99
+          },
+          {
+            "word": "does",
+            "start": 6.12,
+            "end": 6.28,
+            "probability": 0.87
+          },
+          {
+            "word": "not",
+            "start": 6.28,
+            "end": 6.46,
+            "probability": 0.98
+          },
+          {
+            "word": "ring",
+            "start": 6.46,
+            "end": 6.68,
+            "probability": 0.83
+          },
+          {
+            "word": "a",
+            "start": 6.68,
+            "end": 6.82,
+            "probability": 0.92
+          },
+          {
+            "word": "bell",
+            "start": 6.82,
+            "end": 7.22,
+            "probability": 0.96
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1097:1952:force_original_aspect_ratio=increase,crop=1080:1920:6:32"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "comedian_key": "nate",
+      "comedian_name": "Nate Bargatze",
+      "topic": "Wife's ex on open water",
+      "source_file": "/root/dressit-shorts/clips/wacNJSgPxUM.mp4",
+      "source_resolution": "608x1080",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/05_nate_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 74.2,
+      "duration": 8.3,
+      "end_ss": 82.5,
+      "setup_quote": "My friends were like, you should've went and tried to fight him. Why didn't you go fight him?",
+      "punchline_quote": "And I was like, well, I would've had to swim over to that fight.",
+      "transcription": {
+        "full_text": "My friends, my friends were like, you should have went and tried to fight them, why don't you go fight them? And I was like, well, I would have had to swim over to that fight.",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 4.44,
+            "text": "My friends, my friends were like, you should have went and tried to fight them, why don't you go fight them?"
+          },
+          {
+            "start": 5.5,
+            "end": 7.6,
+            "text": "And I was like, well, I would have had to swim over to that fight."
+          }
+        ],
+        "words": [
+          {
+            "word": "My",
+            "start": 0.0,
+            "end": 0.38,
+            "probability": 0.69
+          },
+          {
+            "word": "friends,",
+            "start": 0.38,
+            "end": 0.76,
+            "probability": 0.98
+          },
+          {
+            "word": "my",
+            "start": 1.02,
+            "end": 1.7,
+            "probability": 0.96
+          },
+          {
+            "word": "friends",
+            "start": 1.7,
+            "end": 1.94,
+            "probability": 0.99
+          },
+          {
+            "word": "were",
+            "start": 1.94,
+            "end": 2.1,
+            "probability": 0.77
+          },
+          {
+            "word": "like,",
+            "start": 2.1,
+            "end": 2.22,
+            "probability": 0.97
+          },
+          {
+            "word": "you",
+            "start": 2.34,
+            "end": 2.38,
+            "probability": 0.37
+          },
+          {
+            "word": "should",
+            "start": 2.38,
+            "end": 2.5,
+            "probability": 0.78
+          },
+          {
+            "word": "have",
+            "start": 2.5,
+            "end": 2.6,
+            "probability": 0.51
+          },
+          {
+            "word": "went",
+            "start": 2.6,
+            "end": 2.68,
+            "probability": 0.76
+          },
+          {
+            "word": "and",
+            "start": 2.68,
+            "end": 2.78,
+            "probability": 0.77
+          },
+          {
+            "word": "tried",
+            "start": 2.78,
+            "end": 2.86,
+            "probability": 0.96
+          },
+          {
+            "word": "to",
+            "start": 2.86,
+            "end": 2.98,
+            "probability": 0.99
+          },
+          {
+            "word": "fight",
+            "start": 2.98,
+            "end": 3.22,
+            "probability": 0.99
+          },
+          {
+            "word": "them,",
+            "start": 3.22,
+            "end": 3.4,
+            "probability": 0.72
+          },
+          {
+            "word": "why",
+            "start": 3.6,
+            "end": 3.68,
+            "probability": 0.9
+          },
+          {
+            "word": "don't",
+            "start": 3.68,
+            "end": 3.76,
+            "probability": 0.72
+          },
+          {
+            "word": "you",
+            "start": 3.76,
+            "end": 3.88,
+            "probability": 0.99
+          },
+          {
+            "word": "go",
+            "start": 3.88,
+            "end": 3.98,
+            "probability": 0.99
+          },
+          {
+            "word": "fight",
+            "start": 3.98,
+            "end": 4.24,
+            "probability": 0.98
+          },
+          {
+            "word": "them?",
+            "start": 4.24,
+            "end": 4.44,
+            "probability": 0.89
+          },
+          {
+            "word": "And",
+            "start": 5.5,
+            "end": 5.6,
+            "probability": 0.86
+          },
+          {
+            "word": "I",
+            "start": 5.6,
+            "end": 5.66,
+            "probability": 0.98
+          },
+          {
+            "word": "was",
+            "start": 5.66,
+            "end": 5.76,
+            "probability": 1.0
+          },
+          {
+            "word": "like,",
+            "start": 5.76,
+            "end": 5.86,
+            "probability": 0.99
+          },
+          {
+            "word": "well,",
+            "start": 5.92,
+            "end": 6.02,
+            "probability": 0.69
+          },
+          {
+            "word": "I",
+            "start": 6.12,
+            "end": 6.12,
+            "probability": 0.83
+          },
+          {
+            "word": "would",
+            "start": 6.12,
+            "end": 6.18,
+            "probability": 0.98
+          },
+          {
+            "word": "have",
+            "start": 6.18,
+            "end": 6.26,
+            "probability": 0.87
+          },
+          {
+            "word": "had",
+            "start": 6.26,
+            "end": 6.34,
+            "probability": 0.78
+          },
+          {
+            "word": "to",
+            "start": 6.34,
+            "end": 6.42,
+            "probability": 0.7
+          },
+          {
+            "word": "swim",
+            "start": 6.42,
+            "end": 6.68,
+            "probability": 1.0
+          },
+          {
+            "word": "over",
+            "start": 6.68,
+            "end": 6.92,
+            "probability": 0.99
+          },
+          {
+            "word": "to",
+            "start": 6.92,
+            "end": 7.12,
+            "probability": 0.95
+          },
+          {
+            "word": "that",
+            "start": 7.12,
+            "end": 7.26,
+            "probability": 1.0
+          },
+          {
+            "word": "fight.",
+            "start": 7.26,
+            "end": 7.6,
+            "probability": 1.0
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1154:2049:force_original_aspect_ratio=increase,crop=1080:1920:'clip(72 + (74 - 72)*t/8.300, 0, in_w-out_w)':128"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "comedian_key": "matteo",
+      "comedian_name": "Matteo Lane",
+      "topic": "Screening dating partners & grammar",
+      "source_file": "/root/dressit-pipeline/curated_standup/sources/matteo_lane_gay_straight.mp4",
+      "source_resolution": "1920x1080",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/06_matteo_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 29.0,
+      "duration": 8.5,
+      "end_ss": 37.5,
+      "setup_quote": "If I'm talking to you and you use good grammar, I will fuck you.",
+      "punchline_quote": "If you know how to use a semicolon, get in this colon.",
+      "transcription": {
+        "full_text": "is good grammar, I will fuck you. Oh, if you know how to use a semicolon, get in this colon.",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 1.52,
+            "text": "is good grammar, I will fuck you."
+          },
+          {
+            "start": 4.62,
+            "end": 6.56,
+            "text": "Oh, if you know how to use a semicolon,"
+          },
+          {
+            "start": 7.16,
+            "end": 8.18,
+            "text": "get in this colon."
+          }
+        ],
+        "words": [
+          {
+            "word": "is",
+            "start": 0.0,
+            "end": 0.12,
+            "probability": 0.08
+          },
+          {
+            "word": "good",
+            "start": 0.12,
+            "end": 0.26,
+            "probability": 0.83
+          },
+          {
+            "word": "grammar,",
+            "start": 0.26,
+            "end": 0.6,
+            "probability": 0.93
+          },
+          {
+            "word": "I",
+            "start": 0.86,
+            "end": 0.98,
+            "probability": 0.97
+          },
+          {
+            "word": "will",
+            "start": 0.98,
+            "end": 1.1,
+            "probability": 0.98
+          },
+          {
+            "word": "fuck",
+            "start": 1.1,
+            "end": 1.3,
+            "probability": 0.97
+          },
+          {
+            "word": "you.",
+            "start": 1.3,
+            "end": 1.52,
+            "probability": 0.99
+          },
+          {
+            "word": "Oh,",
+            "start": 4.62,
+            "end": 4.98,
+            "probability": 0.39
+          },
+          {
+            "word": "if",
+            "start": 5.14,
+            "end": 5.2,
+            "probability": 0.93
+          },
+          {
+            "word": "you",
+            "start": 5.2,
+            "end": 5.38,
+            "probability": 0.99
+          },
+          {
+            "word": "know",
+            "start": 5.38,
+            "end": 5.56,
+            "probability": 0.89
+          },
+          {
+            "word": "how",
+            "start": 5.56,
+            "end": 5.64,
+            "probability": 1.0
+          },
+          {
+            "word": "to",
+            "start": 5.64,
+            "end": 5.7,
+            "probability": 1.0
+          },
+          {
+            "word": "use",
+            "start": 5.7,
+            "end": 5.84,
+            "probability": 1.0
+          },
+          {
+            "word": "a",
+            "start": 5.84,
+            "end": 5.92,
+            "probability": 0.99
+          },
+          {
+            "word": "semicolon,",
+            "start": 5.92,
+            "end": 6.56,
+            "probability": 0.74
+          },
+          {
+            "word": "get",
+            "start": 7.16,
+            "end": 7.52,
+            "probability": 0.85
+          },
+          {
+            "word": "in",
+            "start": 7.52,
+            "end": 7.7,
+            "probability": 0.94
+          },
+          {
+            "word": "this",
+            "start": 7.7,
+            "end": 7.86,
+            "probability": 0.99
+          },
+          {
+            "word": "colon.",
+            "start": 7.86,
+            "end": 8.18,
+            "probability": 0.95
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "crop=608:1080:772:0,scale=1080:1920:flags=lanczos"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "comedian_key": "aliwong",
+      "comedian_name": "Ali Wong",
+      "topic": "Dating vs Marriage freedom",
+      "source_file": "/root/dressit-pipeline/curated_standup/sources/ali_wong_CoNlSGGo0g4.mp4",
+      "source_resolution": "1080x1920",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/07_aliwong_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 13.5,
+      "duration": 8.5,
+      "end_ss": 22.0,
+      "setup_quote": "Single people, if you're romantically involved with somebody... you could just leave.",
+      "punchline_quote": "Move to another city and never see their stupid face again!",
+      "transcription": {
+        "full_text": "Oh, you could just leave. Move to another city and...",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 2.78,
+            "text": "Oh, you could just leave."
+          },
+          {
+            "start": 6.0,
+            "end": 8.48,
+            "text": "Move to another city and..."
+          }
+        ],
+        "words": [
+          {
+            "word": "Oh,",
+            "start": 0.0,
+            "end": 0.32,
+            "probability": 0.08
+          },
+          {
+            "word": "you",
+            "start": 1.08,
+            "end": 1.52,
+            "probability": 0.99
+          },
+          {
+            "word": "could",
+            "start": 1.52,
+            "end": 1.7,
+            "probability": 0.98
+          },
+          {
+            "word": "just",
+            "start": 1.7,
+            "end": 1.98,
+            "probability": 1.0
+          },
+          {
+            "word": "leave.",
+            "start": 1.98,
+            "end": 2.78,
+            "probability": 0.99
+          },
+          {
+            "word": "Move",
+            "start": 5.89,
+            "end": 6.42,
+            "probability": 0.69
+          },
+          {
+            "word": "to",
+            "start": 6.42,
+            "end": 6.9,
+            "probability": 1.0
+          },
+          {
+            "word": "another",
+            "start": 6.9,
+            "end": 7.28,
+            "probability": 1.0
+          },
+          {
+            "word": "city",
+            "start": 7.28,
+            "end": 7.86,
+            "probability": 0.99
+          },
+          {
+            "word": "and...",
+            "start": 7.86,
+            "end": 8.48,
+            "probability": 0.43
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1235:2195:force_original_aspect_ratio=increase,crop=1080:1920:0:0"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "comedian_key": "jared",
+      "comedian_name": "Jared Freid",
+      "topic": "Meeting on dating app Hinge",
+      "source_file": "/root/dressit-pipeline/curated_standup/sources/jared_freid_KPdG0MYUFAI.mp4",
+      "source_resolution": "1080x1920",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/08_jared_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 64.0,
+      "duration": 8.5,
+      "end_ss": 72.5,
+      "setup_quote": "They both just went: you know, Hinge.",
+      "punchline_quote": "Yeah, you met the love of your life on a dating website. How fucking crazy is that? Give it up for them!",
+      "transcription": {
+        "full_text": "Yeah, you met the love of your life on a dating website. How fucking crazy is that? Give it up for that.",
+        "segments": [
+          {
+            "start": 0.94,
+            "end": 4.78,
+            "text": "Yeah, you met the love of your life on a dating website."
+          },
+          {
+            "start": 5.12,
+            "end": 6.6,
+            "text": "How fucking crazy is that?"
+          },
+          {
+            "start": 6.76,
+            "end": 7.38,
+            "text": "Give it up for that."
+          }
+        ],
+        "words": [
+          {
+            "word": "Yeah,",
+            "start": 0.94,
+            "end": 1.42,
+            "probability": 0.36
+          },
+          {
+            "word": "you",
+            "start": 1.54,
+            "end": 1.64,
+            "probability": 0.97
+          },
+          {
+            "word": "met",
+            "start": 1.64,
+            "end": 1.94,
+            "probability": 0.63
+          },
+          {
+            "word": "the",
+            "start": 1.94,
+            "end": 2.34,
+            "probability": 0.92
+          },
+          {
+            "word": "love",
+            "start": 2.34,
+            "end": 2.56,
+            "probability": 0.96
+          },
+          {
+            "word": "of",
+            "start": 2.56,
+            "end": 2.82,
+            "probability": 1.0
+          },
+          {
+            "word": "your",
+            "start": 2.82,
+            "end": 2.9,
+            "probability": 1.0
+          },
+          {
+            "word": "life",
+            "start": 2.9,
+            "end": 3.2,
+            "probability": 1.0
+          },
+          {
+            "word": "on",
+            "start": 3.2,
+            "end": 3.78,
+            "probability": 0.98
+          },
+          {
+            "word": "a",
+            "start": 3.78,
+            "end": 3.94,
+            "probability": 0.96
+          },
+          {
+            "word": "dating",
+            "start": 3.94,
+            "end": 4.2,
+            "probability": 0.99
+          },
+          {
+            "word": "website.",
+            "start": 4.2,
+            "end": 4.78,
+            "probability": 0.99
+          },
+          {
+            "word": "How",
+            "start": 5.12,
+            "end": 5.4,
+            "probability": 0.96
+          },
+          {
+            "word": "fucking",
+            "start": 5.4,
+            "end": 5.74,
+            "probability": 0.84
+          },
+          {
+            "word": "crazy",
+            "start": 5.74,
+            "end": 6.1,
+            "probability": 0.95
+          },
+          {
+            "word": "is",
+            "start": 6.1,
+            "end": 6.44,
+            "probability": 0.97
+          },
+          {
+            "word": "that?",
+            "start": 6.44,
+            "end": 6.6,
+            "probability": 1.0
+          },
+          {
+            "word": "Give",
+            "start": 6.76,
+            "end": 6.82,
+            "probability": 0.82
+          },
+          {
+            "word": "it",
+            "start": 6.82,
+            "end": 6.94,
+            "probability": 0.7
+          },
+          {
+            "word": "up",
+            "start": 6.94,
+            "end": 7.06,
+            "probability": 0.99
+          },
+          {
+            "word": "for",
+            "start": 7.06,
+            "end": 7.22,
+            "probability": 0.99
+          },
+          {
+            "word": "that.",
+            "start": 7.22,
+            "end": 7.38,
+            "probability": 0.6
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1458:2592:force_original_aspect_ratio=increase,crop=1080:1920:'clip(if(lt(t, 2.5), 180 - 180*t/2.5, 0), 0, in_w-out_w)':100"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "comedian_key": "gianmarco",
+      "comedian_name": "Gianmarco Soresi",
+      "topic": "Crowd work & dating disorders",
+      "source_file": "/root/dressit-pipeline/curated_standup/sources/gianmarco_soresi_LzQVU7bPEcw.mp4",
+      "source_resolution": "1080x1920",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/09_gianmarco_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 0.0,
+      "duration": 8.5,
+      "end_ss": 8.5,
+      "setup_quote": "Do you have any mental disorder?",
+      "punchline_quote": "General ennui. Sorry, I think that's made up actually. I don't believe in ennui.",
+      "transcription": {
+        "full_text": "Do you, do you have any, any, uh, mental, uh, disorders? General on weed.",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 2.94,
+            "text": "Do you, do you have any, any, uh, mental, uh, disorders?"
+          },
+          {
+            "start": 4.84,
+            "end": 5.8,
+            "text": "General on weed."
+          }
+        ],
+        "words": [
+          {
+            "word": "Do",
+            "start": 0.0,
+            "end": 0.18,
+            "probability": 0.88
+          },
+          {
+            "word": "you,",
+            "start": 0.18,
+            "end": 0.42,
+            "probability": 0.97
+          },
+          {
+            "word": "do",
+            "start": 0.54,
+            "end": 0.62,
+            "probability": 0.96
+          },
+          {
+            "word": "you",
+            "start": 0.62,
+            "end": 0.72,
+            "probability": 0.98
+          },
+          {
+            "word": "have",
+            "start": 0.72,
+            "end": 0.84,
+            "probability": 0.7
+          },
+          {
+            "word": "any,",
+            "start": 0.84,
+            "end": 1.0,
+            "probability": 0.97
+          },
+          {
+            "word": "any,",
+            "start": 1.0,
+            "end": 1.4,
+            "probability": 0.96
+          },
+          {
+            "word": "uh,",
+            "start": 1.64,
+            "end": 1.68,
+            "probability": 0.54
+          },
+          {
+            "word": "mental,",
+            "start": 1.86,
+            "end": 2.06,
+            "probability": 0.99
+          },
+          {
+            "word": "uh,",
+            "start": 2.4,
+            "end": 2.52,
+            "probability": 0.97
+          },
+          {
+            "word": "disorders?",
+            "start": 2.94,
+            "end": 2.94,
+            "probability": 0.4
+          },
+          {
+            "word": "General",
+            "start": 4.84,
+            "end": 5.26,
+            "probability": 0.22
+          },
+          {
+            "word": "on",
+            "start": 5.26,
+            "end": 5.58,
+            "probability": 0.54
+          },
+          {
+            "word": "weed.",
+            "start": 5.58,
+            "end": 5.8,
+            "probability": 0.27
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1080:1920"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "comedian_key": "ashley",
+      "comedian_name": "Ashley Hesseltine",
+      "topic": "Wedding excitement & vows",
+      "source_file": "/root/dressit-shorts/clips/ikRIH3EpMLc.mp4",
+      "source_resolution": "608x1080",
+      "rendered_segment_file": "/root/dressit-pipeline/curated_standup/segments/10_ashley_segment.mp4",
+      "rendered_resolution": "1080x1920",
+      "start_ss": 19.5,
+      "duration": 8.3,
+      "end_ss": 27.8,
+      "setup_quote": "I wanna see the decor, like I just wanna see like what they did in there, I'm dying for it. Okay, what's your answer?",
+      "punchline_quote": "The fucking vows, I would die to see these vows!",
+      "transcription": {
+        "full_text": "want to see like what they did in there I'm dying for it okay what's your answer? The fucking vows I would die to see these vows like take",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 3.84,
+            "text": "want to see like what they did in there I'm dying for it okay what's your answer?"
+          },
+          {
+            "start": 4.18,
+            "end": 8.3,
+            "text": "The fucking vows I would die to see these vows like take"
+          }
+        ],
+        "words": [
+          {
+            "word": "want",
+            "start": 0.0,
+            "end": 0.14,
+            "probability": 0.26
+          },
+          {
+            "word": "to",
+            "start": 0.14,
+            "end": 0.24,
+            "probability": 0.98
+          },
+          {
+            "word": "see",
+            "start": 0.24,
+            "end": 0.44,
+            "probability": 0.97
+          },
+          {
+            "word": "like",
+            "start": 0.44,
+            "end": 0.64,
+            "probability": 0.28
+          },
+          {
+            "word": "what",
+            "start": 0.64,
+            "end": 0.98,
+            "probability": 0.83
+          },
+          {
+            "word": "they",
+            "start": 0.98,
+            "end": 1.24,
+            "probability": 0.91
+          },
+          {
+            "word": "did",
+            "start": 1.24,
+            "end": 1.5,
+            "probability": 0.97
+          },
+          {
+            "word": "in",
+            "start": 1.5,
+            "end": 1.66,
+            "probability": 0.84
+          },
+          {
+            "word": "there",
+            "start": 1.66,
+            "end": 1.82,
+            "probability": 0.97
+          },
+          {
+            "word": "I'm",
+            "start": 1.82,
+            "end": 2.06,
+            "probability": 0.55
+          },
+          {
+            "word": "dying",
+            "start": 2.06,
+            "end": 2.3,
+            "probability": 0.99
+          },
+          {
+            "word": "for",
+            "start": 2.3,
+            "end": 2.64,
+            "probability": 0.98
+          },
+          {
+            "word": "it",
+            "start": 2.64,
+            "end": 2.82,
+            "probability": 0.98
+          },
+          {
+            "word": "okay",
+            "start": 2.82,
+            "end": 3.12,
+            "probability": 0.12
+          },
+          {
+            "word": "what's",
+            "start": 3.12,
+            "end": 3.42,
+            "probability": 0.92
+          },
+          {
+            "word": "your",
+            "start": 3.42,
+            "end": 3.5,
+            "probability": 1.0
+          },
+          {
+            "word": "answer?",
+            "start": 3.5,
+            "end": 3.84,
+            "probability": 1.0
+          },
+          {
+            "word": "The",
+            "start": 4.18,
+            "end": 4.4,
+            "probability": 0.6
+          },
+          {
+            "word": "fucking",
+            "start": 4.4,
+            "end": 4.9,
+            "probability": 0.89
+          },
+          {
+            "word": "vows",
+            "start": 4.9,
+            "end": 5.62,
+            "probability": 0.51
+          },
+          {
+            "word": "I",
+            "start": 5.62,
+            "end": 6.16,
+            "probability": 0.71
+          },
+          {
+            "word": "would",
+            "start": 6.16,
+            "end": 6.4,
+            "probability": 0.95
+          },
+          {
+            "word": "die",
+            "start": 6.4,
+            "end": 6.78,
+            "probability": 0.96
+          },
+          {
+            "word": "to",
+            "start": 6.78,
+            "end": 7.0,
+            "probability": 0.98
+          },
+          {
+            "word": "see",
+            "start": 7.0,
+            "end": 7.22,
+            "probability": 1.0
+          },
+          {
+            "word": "these",
+            "start": 7.22,
+            "end": 7.46,
+            "probability": 0.98
+          },
+          {
+            "word": "vows",
+            "start": 7.46,
+            "end": 7.8,
+            "probability": 0.97
+          },
+          {
+            "word": "like",
+            "start": 7.8,
+            "end": 8.02,
+            "probability": 0.87
+          },
+          {
+            "word": "take",
+            "start": 8.02,
+            "end": 8.3,
+            "probability": 0.32
+          }
+        ]
+      },
+      "face_verification": {
+        "overall_passed": true,
+        "total_samples": 9,
+        "passed_samples": 9,
+        "pass_rate_pct": 100.0,
+        "error": null,
+        "framing_details": {
+          "filter_str": "scale=1154:2049:force_original_aspect_ratio=increase,crop=1080:1920:'clip(72 + (74 - 72)*t/8.300, 0, in_w-out_w)':128"
+        }
+      }
+    }
+  ]
+}

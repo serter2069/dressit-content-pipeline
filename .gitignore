@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Large media & renders
+*.mp4
+*.wav
+*.mp3
+*.mov
+*.avi
+*.mkv
+*.webm
+output/
+debug_frames/
+debug_segments/
+inspect_frames/
+source_clips/
+curated_standup/sources/
+curated_standup/segments/
+pipeline/output/
+pipeline/debug_frames/
+pipeline/debug_segments/
+pipeline/inspect_frames/
+pipeline/source_clips/
+pipeline/curated_standup/sources/
+pipeline/curated_standup/segments/
+
+# Posting media & databases
+posting/data/media/
+posting/data/posting.db
+posting/logs/
+*.db
+*.log
+
+# Sensitive credentials
+CREDENTIALS.txt
+.env
+.env.*
+*.token
+tokens/
+posting/tokens/

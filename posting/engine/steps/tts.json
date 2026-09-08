@@ -1,0 +1,10 @@
+{
+  "name": "tts",
+  "type": "subprocess",
+  "command": ["python3", "/root/fshorts/tts.py", "--job", "{job_id}"],
+  "cwd": "/root/fshorts",
+  "env": {"FSHORTS_JOBS_DIR": "{jobs_root}"},
+  "timeout": 600,
+  "stub": true,
+  "note": "STUBBED: tts.py resolves jobs via FSHORTS_ROOT (also used for config/music lookup), pointing it at the engine root breaks config loading. Needs a dedicated FSHORTS_JOBS_DIR override first."
+}

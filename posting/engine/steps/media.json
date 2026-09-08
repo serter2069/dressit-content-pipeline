@@ -1,0 +1,10 @@
+{
+  "name": "media",
+  "type": "subprocess",
+  "command": ["python3", "/root/fshorts/media.py", "--job", "{job_id}"],
+  "cwd": "/root/fshorts",
+  "env": {"FSHORTS_JOBS_DIR": "{jobs_root}"},
+  "timeout": 900,
+  "stub": true,
+  "note": "STUBBED for the prototype demo; media.py's jobs-dir override was not verified against an engine jobs root."
+}

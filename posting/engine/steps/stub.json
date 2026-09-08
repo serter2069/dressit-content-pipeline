@@ -1,0 +1,5 @@
+{
+  "name": "stub",
+  "type": "stub",
+  "note": "Generic no-op step: succeeds immediately, the runner flips the state. Used by selftests and as a placeholder while a real step is being wired."
+}

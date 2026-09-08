@@ -1,0 +1,10 @@
+{
+  "name": "upload",
+  "type": "subprocess",
+  "command": ["python3", "/root/fshorts/upload.py", "--job", "{job_id}"],
+  "cwd": "/root/fshorts",
+  "env": {"FSHORTS_JOBS_DIR": "{jobs_root}"},
+  "timeout": 900,
+  "stub": true,
+  "note": "STUBBED in the demo (must never publish to the real channel). upload.py honors FSHORTS_JOBS_DIR — portable, unstub only for a fully-wired project."
+}

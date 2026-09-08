@@ -1,0 +1,5 @@
+{
+  "name": "manual",
+  "type": "manual",
+  "note": "Human gate (e.g. review->approved via the Telegram bot). The runner never auto-advances manual stages; an external actor flips the state in job.json."
+}

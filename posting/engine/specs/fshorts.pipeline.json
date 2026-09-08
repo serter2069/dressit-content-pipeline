@@ -1,0 +1,77 @@
+{
+  "name": "fshorts",
+  "version": "1.0.0",
+  "description": "Faceless fashion YouTube Shorts: script -> voice -> media -> render -> review -> publish, with LLM judge gates after scripting and after rendering.",
+  "states": ["new", "scripted", "voiced", "assets", "rendered", "review", "approved", "rejected", "published"],
+  "terminal_states": ["rejected", "published"],
+  "stages": [
+    {
+      "name": "script",
+      "from": "new",
+      "to": "scripted",
+      "step": "scriptgen",
+      "on_fail": "retry",
+      "daily_limit": "generate",
+      "judge": {
+        "model": "z-ai/glm-5.3",
+        "rubric_file": "rubrics/scenario.md",
+        "artifact": "@script",
+        "threshold": 7.0,
+        "retries": 1
+      }
+    },
+    {
+      "name": "voice",
+      "from": "scripted",
+      "to": "voiced",
+      "step": "tts",
+      "on_fail": "retry"
+    },
+    {
+      "name": "media",
+      "from": "voiced",
+      "to": "assets",
+      "step": "media",
+      "on_fail": "retry"
+    },
+    {
+      "name": "render",
+      "from": "assets",
+      "to": "rendered",
+      "step": "render",
+      "on_fail": "retry",
+      "judge": {
+        "model": "z-ai/glm-5.3-flash",
+        "rubric_file": "rubrics/frame.md",
+        "artifact": "render.mp4",
+        "threshold": 7.0,
+        "retries": 1,
+        "mode": "stub",
+        "note": "Frame judge: config-only placeholder. Frame/video extraction is not wired into the engine yet, so this gate auto-passes. See SPEC.md 'Заглушки'."
+      }
+    },
+    {
+      "name": "send_review",
+      "from": "rendered",
+      "to": "review",
+      "step": "approve",
+      "on_fail": "retry"
+    },
+    {
+      "name": "human_review",
+      "from": "review",
+      "to": "approved",
+      "step": "manual",
+      "on_fail": "hold"
+    },
+    {
+      "name": "publish",
+      "from": "approved",
+      "to": "published",
+      "step": "upload",
+      "on_fail": "retry",
+      "daily_limit": "publish",
+      "publish_window": true
+    }
+  ]
+}

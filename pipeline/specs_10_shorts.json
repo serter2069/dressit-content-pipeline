@@ -1,0 +1,328 @@
+[
+  {
+    "id": "short_01",
+    "number": 1,
+    "group": "Group 1: Dating & Red-Flag Comedy -> DressIt Bridge",
+    "title": "I Quit Dating Losers",
+    "hook_text": "POV: you finally said it out loud",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "start_sec": 4.18,
+      "end_sec": 12.4,
+      "duration_sec": 8.22,
+      "setup_timing": "4.18s-6.55s",
+      "punchline_timing": "6.55s-12.40s",
+      "quote": "I quit dating losers!"
+    },
+    "ugc_clips": [
+      {
+        "clip_id": "maria_01",
+        "filename": "maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+        "post_id": "pst_OFg4sbOCNbFlOyLchBtK9",
+        "outfit_title": "Two piece set, very elegant. For nice restaurant",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Standup punchline clip, hard cut to Maria reacting in approval, then DressIt app screen.",
+    "voiceover_script": "If you're done settling for low-effort boys, post the dress you actually want, and let a good guy fund it free.",
+    "word_count": 21,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_01.mp3",
+    "audio_duration_sec": 7.78,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 7.24
+  },
+  {
+    "id": "short_02",
+    "number": 2,
+    "group": "Group 1: Dating & Red-Flag Comedy -> DressIt Bridge",
+    "title": "Losers Are Like Cigarettes",
+    "hook_text": "He's bad for you and you're still going back",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "start_sec": 19.1,
+      "end_sec": 27.85,
+      "duration_sec": 8.75,
+      "setup_timing": "19.10s-22.50s",
+      "punchline_timing": "22.50s-27.85s",
+      "quote": "Losers are like cigarettes..."
+    },
+    "ugc_clips": [
+      {
+        "clip_id": "maria_02",
+        "filename": "maria_02_angaevamariia_vid_790GN4oq.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_02_angaevamariia_vid_790GN4oq.mp4",
+        "post_id": "pst_lt22sVhPMHTbZhYRX7TJV",
+        "outfit_title": "Girls night out look. Red heels is must",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Standup 'cigarettes' joke clip, cut to Maria tossing her hair, then wishlist screen of a dream dress.",
+    "voiceover_script": "Drop the cigarette boy already. On DressIt, high-effort guys fund the dream dress you've been eyeing, and you pay literally nothing.",
+    "word_count": 21,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_02.mp3",
+    "audio_duration_sec": 8.33,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 8.33
+  },
+  {
+    "id": "short_03",
+    "number": 3,
+    "group": "Group 1: Dating & Red-Flag Comedy -> DressIt Bridge",
+    "title": "He Has A Car And A Job... And A Wife",
+    "hook_text": "the plot twist nobody asked for",
+    "standup_clip": {
+      "source_file": "/root/dressit-shorts/clips/oagNYHB3Kzk.mp4",
+      "start_sec": 32.12,
+      "end_sec": 40.52,
+      "duration_sec": 8.4,
+      "setup_timing": "32.12s-35.80s",
+      "punchline_timing": "35.80s-40.52s",
+      "quote": "Guy with a car and a job... but his wife!"
+    },
+    "ugc_clips": [
+      {
+        "clip_id": "maria_03",
+        "filename": "maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+        "post_id": "pst_mfHfBTE95c1dnQQ3HYrFr",
+        "outfit_title": "For work or for date, both is good 😄",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Standup punchline, Maria dramatic eye-roll, then DressIt profile of verified single guys.",
+    "voiceover_script": "Skip the married-man drama completely. DressIt is full of actually single guys who'll fund your favorite outfit without a single excuse.",
+    "word_count": 21,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_03.mp3",
+    "audio_duration_sec": 8.12,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 9.2
+  },
+  {
+    "id": "short_04",
+    "number": 4,
+    "group": "Group 2: Girl Math & Shopping Confessions",
+    "title": "Girl Math: The $250 Dress",
+    "hook_text": "girl math says this is free",
+    "standup_clip": null,
+    "ugc_clips": [
+      {
+        "clip_id": "maria_04",
+        "filename": "maria_04_angaevamariia_vid_28hF5F0z.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+        "post_id": "pst_IYUc2MzhFM57j7y8RZMRw",
+        "outfit_title": "Birthday party dress! So shiny ✨",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Maria doing quick math on her fingers, cut to $250 dress post being fully funded to $0.",
+    "voiceover_script": "A two-fifty dress you buy yourself costs two-fifty. But when a guy funds it on DressIt, your total is literally nothing.",
+    "word_count": 21,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_04.mp3",
+    "audio_duration_sec": 8.1,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 8.75
+  },
+  {
+    "id": "short_05",
+    "number": 5,
+    "group": "Group 2: Girl Math & Shopping Confessions",
+    "title": "Stop Staring At Your Cart",
+    "hook_text": "that Zara cart has been there for 3 weeks",
+    "standup_clip": null,
+    "ugc_clips": [
+      {
+        "clip_id": "maria_05",
+        "filename": "maria_05_angaevamariia_vid_KymX8LAP.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_05_angaevamariia_vid_KymX8LAP.mp4",
+        "post_id": "pst_F1PFSkSS7CWuzHCyYMCfg",
+        "outfit_title": "Interesting look, but maybe too much for me 😅",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Maria sighing at her phone, cut to posting the cart dress on DressIt and instantly getting funded.",
+    "voiceover_script": "You've waited three weeks for a sale that isn't coming. Post your cart on DressIt tonight and watch a guy fund it.",
+    "word_count": 22,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_05.mp3",
+    "audio_duration_sec": 7.81,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 7.03
+  },
+  {
+    "id": "short_06",
+    "number": 6,
+    "group": "Group 2: Girl Math & Shopping Confessions",
+    "title": "A Wedding I Didn't Even Want To Attend",
+    "hook_text": "buying a dress for HER big day? make it free",
+    "standup_clip": null,
+    "ugc_clips": [
+      {
+        "clip_id": "maria_06",
+        "filename": "maria_06_angaevamariia_vid_YhozXb0A.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_06_angaevamariia_vid_YhozXb0A.mp4",
+        "post_id": "pst_2CQwnJAml5I38tUETATgP",
+        "outfit_title": "This one for dinner with friends. Little bit vintage, I like it",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Maria mocking dramatic invitation reading, cut to wedding outfit wishlist fully funded on DressIt.",
+    "voiceover_script": "You should never pay for a wedding you didn't even want to attend. Post the outfit and let a guy cover it.",
+    "word_count": 22,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_06.mp3",
+    "audio_duration_sec": 7.78,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 6.9
+  },
+  {
+    "id": "short_07",
+    "number": 7,
+    "group": "Group 3: Interactive Dress Rating & Voting",
+    "title": "Pick My Friday Dress",
+    "hook_text": "1, 2, or 3? choose wisely",
+    "standup_clip": null,
+    "ugc_clips": [
+      {
+        "clip_id": "maria_01",
+        "filename": "maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_01_angaevamariia_vid_qYVNgIgi.mp4",
+        "post_id": "pst_OFg4sbOCNbFlOyLchBtK9",
+        "outfit_title": "Two piece set, very elegant. For nice restaurant",
+        "creator_handle": "angaevamariia"
+      },
+      {
+        "clip_id": "maria_02",
+        "filename": "maria_02_angaevamariia_vid_790GN4oq.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_02_angaevamariia_vid_790GN4oq.mp4",
+        "post_id": "pst_lt22sVhPMHTbZhYRX7TJV",
+        "outfit_title": "Girls night out look. Red heels is must",
+        "creator_handle": "angaevamariia"
+      },
+      {
+        "clip_id": "maria_04",
+        "filename": "maria_04_angaevamariia_vid_28hF5F0z.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_04_angaevamariia_vid_28hF5F0z.mp4",
+        "post_id": "pst_IYUc2MzhFM57j7y8RZMRw",
+        "outfit_title": "Birthday party dress! So shiny ✨",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Fast cuts of Maria modeling three dresses (maria_01, maria_02, maria_04), numbered overlays, comment-bait end card.",
+    "voiceover_script": "Which dress should I get funded for Friday night? Comment one, two, or three, and tell me which guy pays for yours.",
+    "word_count": 22,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_07.mp3",
+    "audio_duration_sec": 8.1,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 8.1
+  },
+  {
+    "id": "short_08",
+    "number": 8,
+    "group": "Group 3: Interactive Dress Rating & Voting",
+    "title": "Rating 3 Viral Dresses",
+    "hook_text": "rate them with me, no mercy",
+    "standup_clip": null,
+    "ugc_clips": [
+      {
+        "clip_id": "maria_03",
+        "filename": "maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+        "post_id": "pst_mfHfBTE95c1dnQQ3HYrFr",
+        "outfit_title": "For work or for date, both is good 😄",
+        "creator_handle": "angaevamariia"
+      },
+      {
+        "clip_id": "maria_06",
+        "filename": "maria_06_angaevamariia_vid_YhozXb0A.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_06_angaevamariia_vid_YhozXb0A.mp4",
+        "post_id": "pst_2CQwnJAml5I38tUETATgP",
+        "outfit_title": "This one for dinner with friends. Little bit vintage, I like it",
+        "creator_handle": "angaevamariia"
+      },
+      {
+        "clip_id": "maria_07",
+        "filename": "maria_07_angaevamariia_vid_k0QcluXY.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_07_angaevamariia_vid_k0QcluXY.mp4",
+        "post_id": "pst_Coz48dpLCQ0yOgvfYeaUC",
+        "outfit_title": "Love this flower dress. Perfect for beach vacation 🌸",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Three viral dress reveals with Maria's ratings on screen, comment-prompt end card with DressIt logo.",
+    "voiceover_script": "I'm rating three viral dresses right now. Drop your favorite in the comments, then go get yours funded on DressIt today.",
+    "word_count": 21,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_08.mp3",
+    "audio_duration_sec": 7.78,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 6.79
+  },
+  {
+    "id": "short_09",
+    "number": 9,
+    "group": "Group 4: Dating Green Flags & Wishlist Storytime",
+    "title": "The Biggest Green Flag In 2026",
+    "hook_text": "he doesn't ask... he just funds it",
+    "standup_clip": null,
+    "ugc_clips": [
+      {
+        "clip_id": "maria_07",
+        "filename": "maria_07_angaevamariia_vid_k0QcluXY.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_07_angaevamariia_vid_k0QcluXY.mp4",
+        "post_id": "pst_Coz48dpLCQ0yOgvfYeaUC",
+        "outfit_title": "Love this flower dress. Perfect for beach vacation 🌸",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Maria soft smile talking to camera, cut to wishlist notification 'fully funded' popping on screen.",
+    "voiceover_script": "The biggest green flag this year isn't flowers. It's a guy who opens your DressIt wishlist and quietly funds every single thing.",
+    "word_count": 22,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_09.mp3",
+    "audio_duration_sec": 8.49,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 8.49
+  },
+  {
+    "id": "short_10",
+    "number": 10,
+    "group": "Group 4: Dating Green Flags & Wishlist Storytime",
+    "title": "The Talking Stage Is Dead",
+    "hook_text": "3 months of 'wyd' texts? no thanks",
+    "standup_clip": null,
+    "ugc_clips": [
+      {
+        "clip_id": "maria_03",
+        "filename": "maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+        "path": "/root/event-hero/assets/maria_ugc/maria_03_angaevamariia_vid_PPpDhJD4.mp4",
+        "post_id": "pst_mfHfBTE95c1dnQQ3HYrFr",
+        "outfit_title": "For work or for date, both is good 😄",
+        "creator_handle": "angaevamariia"
+      }
+    ],
+    "visual_concept": "Maria unimpressed reading texts, cut to DressIt profile where effort-guys fund her posted outfit.",
+    "voiceover_script": "Tired of talking stages that go nowhere? Post your favorite outfit on DressIt and meet guys who actually show effort immediately.",
+    "word_count": 21,
+    "cta_text": "free dress, good men -> dressit.com",
+    "audio_asset": "/root/dressit-pipeline/assets/voice_batch10_10.mp3",
+    "audio_duration_sec": 8.12,
+    "target_lufs": -14.0,
+    "tts_voice": "nova",
+    "raw_audio_duration_sec": 8.54
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "approve",
+  "type": "subprocess",
+  "command": ["python3", "/root/fshorts/approve_bot.py", "--job", "{job_id}"],
+  "cwd": "/root/fshorts",
+  "env": {"FSHORTS_JOBS_DIR": "{jobs_root}"},
+  "timeout": 300,
+  "stub": true,
+  "note": "STUBBED in the demo (no Telegram round-trip wanted). approve_bot.py honors FSHORTS_JOBS_DIR, so it is one of the most portable fshorts modules — likely first candidate to unstub."
+}

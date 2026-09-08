@@ -1,0 +1,12 @@
+{
+  "title": "3 viral TikTok dresses under $30",
+  "source": "demo",
+  "items": [
+    {"name": "Satin cowl-neck slip dress", "price": "$24.99", "store": "Amazon",
+     "image_url": "", "trend": "8M views on #tiktokmademebuyit"},
+    {"name": "Ribbed bodycon midi dress", "price": "$19.99", "store": "Amazon",
+     "image_url": "", "trend": "viral try-on hauls"},
+    {"name": "Floral ruffle mini dress", "price": "$27.50", "store": "Shein",
+     "image_url": "", "trend": "trending in GRWM videos"}
+  ]
+}

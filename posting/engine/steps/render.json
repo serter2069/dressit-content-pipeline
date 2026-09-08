@@ -1,0 +1,10 @@
+{
+  "name": "render",
+  "type": "subprocess",
+  "command": ["python3", "/root/fshorts/render.py", "--job", "{job_id}"],
+  "cwd": "/root/fshorts",
+  "env": {"FSHORTS_JOBS_DIR": "{jobs_root}"},
+  "timeout": 900,
+  "stub": true,
+  "note": "STUBBED for the prototype demo; render.py's jobs-dir override was not verified against an engine jobs root."
+}
